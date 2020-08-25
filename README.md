@@ -1,4 +1,5 @@
-# University Service Center
+# University Service Center 
+### Designed and developed solely by Yuxiang Fu
 
 ![Head_img](./data/studentservices2019-20.png)
 
