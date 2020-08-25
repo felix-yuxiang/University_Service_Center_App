@@ -1,0 +1,376 @@
+<dl class="double">
+
+	<dt><a name="100"></a>PSYC 100 (6)  <b>Introductory Psychology</b></dt>
+	<dd>Introduction to methods and statistics, biopsychology, learning, perception, memory, cognition, motivation, assessment, developmental, personality, clinical, and social psychology.  Credit will be granted for only one of PSYC 100 or PSYC 101 and 102. <br > 
+	</dd>
+
+	<dt><a name="101"></a>PSYC 101 (3)  <b>Introduction to Biological and Cognitive Psychology</b></dt>
+	<dd>Introduction to Methods and Statistics, Biopsychology, Learning, Perception, Memory, and Cognition. Credit will be granted for only one of PSYC 100 and PSYC 101. <br > 
+	</dd>
+
+	<dt><a name="102"></a>PSYC 102 (3)  <b>Introduction to Developmental, Social, Personality, and Clinical Psychology</b></dt>
+	<dd>Introduction to methods and statistics, motivation, assessment, developmental, personality, clinical, and social psychology. Credit will be granted for only one of PSYC 100 and PSYC 102. <br > 
+	</dd>
+
+	<dt><a name="205"></a>PSYC 205 (3/6) d <b>Contemporary Issues in Psychology</b></dt>
+	<dd>Topics include addiction, culture and evolution in social behaviour, personal relationships, pro- and anti-social behaviour, judgment and decision-making, prejudice and discrimination. Consult the Psychology Department for topics offered each term. May be repeated on a different topic once for credit. <br > 
+	</dd>
+
+	<dt><a name="207"></a>PSYC 207 (3)  <b>Contemporary Topics in Biological and Cognitive Psychology</b></dt>
+	<dd>A focus on the interpretation of contemporary research in neuroscience, cognition, perception, memory, and learning. <br > 
+	</dd>
+
+	<dt><a name="208"></a>PSYC 208 (3)  <b>Contemporary Topics in Social, Developmental, Personality, and Clinical Psychology</b></dt>
+	<dd>A focus on the interpretation of contemporary research in social, developmental, personality, and clinical psychology. <br > 
+	</dd>
+
+	<dt><a name="216"></a>PSYC 216 (3)  <b>Questioning Psychological Science in the Media</b></dt>
+	<dd>Use basic principles of quantitative psychological research methods to critique psychological claims presented in the media and to translate psychological science to everyday life. Intended for non-psychology majors to prepare for upper level courses. Majors should take PSYC 217 instead. <br > 
+	</dd>
+
+	<dt><a name="217"></a>PSYC 217 (3)  <b>Research Methods</b></dt>
+	<dd>Focus on various research methods used in psychology, with an emphasis on critical thinking and experimental design.  Restricted to students in the Faculty of Arts who have declared their major in one of Psychology, Cognitive Systems, or Speech Sciences (Linguistics Department). Credit will be granted for only one of PSYC 217 or PSYC 277. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.<br> 
+	</dd>
+
+	<dt><a name="218"></a>PSYC 218 (3)  <b>Analysis of Behavioural Data</b></dt>
+	<dd>Use of inferential statistics in psychology and conceptual interpretation of data; experimental design (laboratory, field research methods); presentation of data analyses in reports. PSYC 218 excludes credit for a number of other statistics courses in various departments. Please consult the Science Exclusion List (www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414) before registering. Credit will be granted for only one of PSYC 218 or PSYC 278. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277. And a major in Psychology, Cognitive Systems, or Speech Sciences.<br> <em>Corequisite:</em> Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.<br> 
+	</dd>
+
+	<dt><a name="260"></a>PSYC 260 (8)  <b>Experimental Psychology and Laboratory</b></dt>
+	<dd>Detailed introduction to experimental and theoretical aspects of motivation, sensation, perception and learning. Course no longer offered. Credit will be granted for only one of PSYC 260 or PSYC 270. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> Completion of first-year Science program and permission of the department head is also required.<br> <em>Corequisite:</em> Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.<br> 
+	</dd>
+
+	<dt><a name="263"></a>PSYC 263 (3/6) d <b>Contemporary Issues in Behavioural Neuroscience</b></dt>
+	<dd>Contemporary issues in behavioural neuroscience. Consult the Psychology Department for topics offered each term. May be repeated on a different topic once for credit. [3-0-0]<br > 
+	</dd>
+
+	<dt><a name="270"></a>PSYC 270 (3)  <b>Introduction to Behavioural Neuroscience</b></dt>
+	<dd>Foundational topics in behavioural neuroscience. Credit will be granted for only one of PSYC 260 or PSYC 270. <em>This course is not eligible for Credit/D/Fail grading.</em> [2-2-0]<br > <em>Prerequisite:</em> Either (a) SCIE 001 and BIOL 140;  or (b) one of CHEM 111, CHEM 121, CHEM 123 and all of BIOL 121, BIOL 140. And second-year standing in a Behavioural Neuroscience specialization.<br> 
+	</dd>
+
+	<dt><a name="271"></a>PSYC 271 (2)  <b>Introduction to Behavioural Neuroscience (Lecture)</b></dt>
+	<dd>Foundational topics in behavioural neuroscience. <em>This course is not eligible for Credit/D/Fail grading.</em> [2-0-0]<br > <em>Prerequisite:</em> Either (a) SCIE 001 or (b) BIOL 121 and one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 130. And second-year standing in a Behavioural Neuroscience specialization.<br> 
+	</dd>
+
+	<dt><a name="272"></a>PSYC 272 (1)  <b>Introduction to Behavioural Neuroscience (Laboratory)</b></dt>
+	<dd>Guided laboratory investigations in behavioural neuroscience. <em>This course is not eligible for Credit/D/Fail grading.</em> [0-2-0]<br > <em>Prerequisite:</em> PSYC 271.<br> 
+	</dd>
+
+	<dt><a name="273"></a>PSYC 273 (3)  <b>Behavioural and Neuroscientific Research Methods (Lecture)</b></dt>
+	<dd>Research methods used in behavioural neuroscience. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Prerequisite:</em> Either (a) SCIE 001 or (b) BIOL 121 and one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 130. And second-year standing in a Behavioural Neuroscience specialization.<br> 
+	</dd>
+
+	<dt><a name="274"></a>PSYC 274 (1)  <b>Behavioural and Neuroscientific Research Methods (Laboratory)</b></dt>
+	<dd>Guided applications of research methods used in behavioural neuroscience. <em>This course is not eligible for Credit/D/Fail grading.</em> [0-3-0]<br > <em>Prerequisite:</em> PSYC 273.<br> 
+	</dd>
+
+	<dt><a name="275"></a>PSYC 275 (3)  <b>Analysis of Behavioural and Neuroscientific Data (Lecture)</b></dt>
+	<dd>Statistical methods for use in behavioural neuroscience. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Prerequisite:</em> One of PSYC 217, PSYC 273, PSYC 277.<br> 
+	</dd>
+
+	<dt><a name="277"></a>PSYC 277 (4)  <b>Behavioural and Neuroscientific Research Methods</b></dt>
+	<dd>Research methods used in behavioural neuroscience. Credit will be granted for only one of PSYC 217 or PSYC 277. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-3-0]<br > <em>Prerequisite:</em> Either (a) SCIE 001 and BIOL 140;  or (b) one of CHEM 111, CHEM 121, CHEM 123 and all of BIOL 121, BIOL 140. And second-year standing in a Behavioural Neuroscience specialization.<br> 
+	</dd>
+
+	<dt><a name="278"></a>PSYC 278 (4)  <b>Analysis of Behavioural and Neuroscientific Data</b></dt>
+	<dd>Statistical methods for use in behavioural neuroscience. Credit will be granted for only one of PSYC 218 or PSYC 278. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-3-0]<br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277.<br> 
+	</dd>
+
+	<dt><a name="300"></a>PSYC 300 (3/6) d <b>Abnormal Psychology</b></dt>
+	<dd>The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.<br> 
+	</dd>
+
+	<dt><a name="301"></a>PSYC 301 (3)  <b>Brain Dysfunction and Recovery</b></dt>
+	<dd>Cognitive and behavioral impairments resulting from brain dysfunction. Focus on the efficacy of various intervention approaches. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="302"></a>PSYC 302 (3)  <b>Infancy</b></dt>
+	<dd>Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="303"></a>PSYC 303 (3)  <b>Tests and Measurements</b></dt>
+	<dd>Theory and practice of psychological measurement, statistical models for items and tests, assessment of test reliability and validity, factor analysis, scoring. <br > <em>Prerequisite:</em> One of PSYC 218, PSYC 278, PSYC 366.<br> 
+	</dd>
+
+	<dt><a name="304"></a>PSYC 304 (3/6) d <b>Brain and Behaviour</b></dt>
+	<dd>The neurobiological bases of behaviour; brain processes involved in perception, motivation, emotion, psychopathology, learning and memory. Open to all Arts and Science majors except those in the B.Sc. Psychology program. Credit will be granted for only one of PSYC 304 or PSYC 360. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and one of PSYC 216, or either PSYC 217 or 277, or either PSYC 260 or 270.<br> 
+	</dd>
+
+	<dt><a name="305"></a>PSYC 305 (3/6) d <b>Personality Psychology</b></dt>
+	<dd>Theory and research on individual differences in motivation, emotion, and social behaviour. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277<br> 
+	</dd>
+
+	<dt><a name="306"></a>PSYC 306 (3/6) d <b>Principles of Animal Behaviour</b></dt>
+	<dd>Behavioural neuroscience; behavioural genetics; social systems; mating and parental strategies; instinct and learning; evolution of human behaviour. Credit will be given for only one of BIOL 310 or PSYC 306. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="307"></a>PSYC 307 (3)  <b>Cultural Psychology</b></dt>
+	<dd>Cultural influences on human thought and behaviour; interactions of culture and self; multicultural experiences; intercultural relations; methodological issues. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="308"></a>PSYC 308 (3/6) d <b>Social Psychology</b></dt>
+	<dd>Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="309"></a>PSYC 309 (3/6) d <b>Cognitive Processes</b></dt>
+	<dd>Contribution of cognitive processes to perception, attention, and memory; cognitive development, language, thinking, and creativity. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="311"></a>PSYC 311 (3)  <b>Psychology of Sport</b></dt>
+	<dd>Psychological theory, research, and skills training related to sport performance, exercise motivation, and adherence. Credit will be granted for only one of PSYC 311 and KIN 150 and 231. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="312"></a>PSYC 312 (3/6) d <b>History of Psychology</b></dt>
+	<dd>The principal trends of psychological explanation and events in the history of psychology from the earliest times to the present. Open only to Major or Honours students or by permission of the instructor. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="314"></a>PSYC 314 (3)  <b>Health Psychology</b></dt>
+	<dd>Health-related behaviours such as smoking and drug use; effects of stressful events on health; methods for coping with stress; impact of chronic illness on the family; social support systems. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277<br> 
+	</dd>
+
+	<dt><a name="315"></a>PSYC 315 (3)  <b>Childhood and Adolescence</b></dt>
+	<dd>Human development from the preschool period through adolescence. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="319"></a>PSYC 319 (3)  <b>Applied Developmental Psychology</b></dt>
+	<dd>Applications of theories and research in developmental psychology to contemporary social issues; topics may include daycare, child abuse, divorce and remarriage, substance abuse, sexuality. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="320"></a>PSYC 320 (3/6) d <b>Psychology of Sex Differences</b></dt>
+	<dd>Theory and research on gender development and the influence of sex and/or gender on cognition, emotion, motivation, social behaviour, and health. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="321"></a>PSYC 321 (3)  <b>Environmental Psychology</b></dt>
+	<dd>Psychological theory and research on the interaction between organisms and the physical environment; emphasis on applications to the design and management of constructed and natural environments. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. Strongly recommended: PSYC 101 and PSYC 216 or 217.<br> 
+	</dd>
+
+	<dt><a name="322"></a>PSYC 322 (3)  <b>Adulthood and Aging</b></dt>
+	<dd>Issues, theories, and psychological research regarding adulthood and the aging process. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="325"></a>PSYC 325 (3)  <b>Socialization: Media Content and Effects</b></dt>
+	<dd>Examines human development in the context of the socializing role of media. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="331"></a>PSYC 331 (3)  <b>Forensic Psychology</b></dt>
+	<dd>The application of psychological theory and research to legal issues and the criminal justice system. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="333"></a>PSYC 333 (3)  <b>Memory: Historical, Clinical and Cognitive Perspectives</b></dt>
+	<dd>Classical and contemporary metaphors for memory and their impact on theory development. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277. Non-PSYC students may substitute LING 420 or LING 200 and 201 for the above prerequisite.<br> 
+	</dd>
+
+	<dt><a name="334"></a>PSYC 334 (3)  <b>Memory II</b></dt>
+	<dd>Organic amnesia; remembering childhood events; the self and memory; and the problem of distinguishing genuine from simulated forgetting. <br > <em>Prerequisite:</em> PSYC 333.<br> 
+	</dd>
+
+	<dt><a name="335"></a>PSYC 335 (3)  <b>Gambling and Decision Making</b></dt>
+	<dd>The psychology of gambling behaviour, with emphasis on relevant work from judgment and decision-making, the cognitive neuroscience of choice, and clinical perspectives on disordered gambling. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="336"></a>PSYC 336 (3)  <b>The Psychology of Language I</b></dt>
+	<dd>Psychological abilities underlying human language; language processing, lexical representation, and principles of online conversation; animal versus human communication. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277. Non-PSYC students may substitute ENGL 329, or LING 420, or LING 200 and 201 for the above prerequisite.<br> 
+	</dd>
+
+	<dt><a name="337"></a>PSYC 337 (3)  <b>The Psychology of Language II</b></dt>
+	<dd>Language and thought; deriving psychological principles from language universals; the psychology of literacy, dyslexia, multilingualism, and natural language processing. <br > <em>Prerequisite:</em> PSYC 336 or permission of the instructor.<br> 
+	</dd>
+
+	<dt><a name="340"></a>PSYC 340 (2-6) c <b>Directed Studies in Psychology</b></dt>
+	<dd>Directed investigation of a problem, requiring a written report of the findings. <br > <em>Prerequisite:</em> At least 72% average in the preceding 30 credits and permission of a faculty member who is prepared to supervise the investigation.<br> 
+	</dd>
+
+	<dt><a name="348"></a>PSYC 348 (2-6) c <b>Directed Studies in Behavioural Neuroscience</b></dt>
+	<dd>Directed investigation of an experimental problem requiring a written report of the findings. <br > <em>Prerequisite:</em> At least 72% average in the preceding 30 credits and permission of a faculty member who is prepared to supervise the investigation.<br> 
+	</dd>
+
+	<dt><a name="349"></a>PSYC 349 (6)  <b>Honours Seminar</b></dt>
+	<dd>Orientation to psychological research, with special emphasis on ongoing research within the department; effective presentation of research findings, oral and written; critical evaluation of research. Requires a research project. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102;  and all of PSYC 217,  218. Restricted to students in Honours.<br> 
+	</dd>
+
+	<dt><a name="350"></a>PSYC 350 (3/6) d <b>Psychological Aspects of Human Sexuality</b></dt>
+	<dd>Human sexuality from a biopsychological, behavioural, and psychosocial perspective. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="358"></a>PSYC 358 (3)  <b>Evolutionary Psychology</b></dt>
+	<dd>Theory and research on the evolution of the human mind, with emphasis on implications for cognition and behaviour in contemporary environments. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="359"></a>PSYC 359 (3)  <b>Advanced Research Methods in Behavioural Sciences</b></dt>
+	<dd>Prepares students for graduate studies or other advanced behavioural research; experimental design and analytic techniques; laboratory with computer applications. <br > <em>Prerequisite:</em> Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278;  or (b) PSYC 366.<br> 
+	</dd>
+
+	<dt><a name="360"></a>PSYC 360 (6)  <b>Biopsychology</b></dt>
+	<dd>The relationship between the nervous system and behaviour; the physiological basis of perception, motivation, learning, and memory. Please consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414. Course no longer offered. <br > <em>Prerequisite:</em> PSYC 260.<br> 
+	</dd>
+
+	<dt><a name="361"></a>PSYC 361 (3)  <b>Neuroscience of Motivation</b></dt>
+	<dd>Experimental analysis of hunger, thirst, exploratory and curiosity behaviour, maternal and reproductive behaviour, fixed action patterns, and complex processes involved in social motivation with emphasis on the biological basis of motivation. [3-0-0]<br > <em>Prerequisite:</em> One of PSYC 260, PSYC 270, PSYC 304, PSYC 360, PSYC 370.<br> 
+	</dd>
+
+	<dt><a name="363"></a>PSYC 363 (3)  <b>Neuroscience of Simple Learning</b></dt>
+	<dd>Introduction to basic theories of non-associative learning, classical and operant conditioning. Experimental findings from behavioural and biological analyses with animals and humans. [3-0-0]<br > <em>Prerequisite:</em> One of BIOL 260, BIOL 361, BIOL 455, BIOL 458, CAPS 301, PSYC 260, PSYC 263, PSYC 270, PSYC 304.<br> 
+	</dd>
+
+	<dt><a name="364"></a>PSYC 364 (3)  <b>Animal Cognition</b></dt>
+	<dd>Investigations of animal cognitive abilities, including spatial learning, timing, counting, concept formation and language use. Experimental findings presented from behavioural and biological approaches with animals and humans. <br > <em>Prerequisite:</em> PSYC 363.<br> 
+	</dd>
+
+	<dt><a name="365"></a>PSYC 365 (3)  <b>Cognitive Neuroscience</b></dt>
+	<dd>Current research into human brain systems underlying cognitive processes such as perception, attention, memory, and decision-making. [3-0-0]<br > <em>Prerequisite:</em> One of PSYC 260, PSYC 270, COGS 200.<br> 
+	</dd>
+
+	<dt><a name="366"></a>PSYC 366 (8)  <b>Methods in Research</b></dt>
+	<dd>Detailed coverage of basic research methods; the design of experiments and statistical analysis; methods will be applied in laboratory and project work. Please consult the Faculty of Science Credit Exclusion List:  www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414. Course no longer offered. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> PSYC 260 or in Honours program.<br> 
+	</dd>
+
+	<dt><a name="367"></a>PSYC 367 (3)  <b>Sensory Systems</b></dt>
+	<dd>Anatomy and physiology of the sensory pathways and their relation to perception. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102 or (c) 6 credits of 200-level Psychology (but not 205 or 263).<br> 
+	</dd>
+
+	<dt><a name="368"></a>PSYC 368 (3)  <b>Perceptual Processing</b></dt>
+	<dd>Perceptual phenomena and their underlying brain mechanisms. <br > <em>Prerequisite:</em> PSYC 367.<br> 
+	</dd>
+
+	<dt><a name="370"></a>PSYC 370 (3)  <b>Behavioural Neuroscience I</b></dt>
+	<dd>Advanced methods and topics in behavioural neuroscience. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Prerequisite:</em> One of PSYC 260, PSYC 270 and one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278.<br> 
+	</dd>
+
+	<dt><a name="371"></a>PSYC 371 (3)  <b>Behavioural Neuroscience II</b></dt>
+	<dd>Neurodevelopment and neuroplasticity, the physiological bases of several motivated behaviours (sleep, sexual behaviour, hunger and eating, drugs and addiction), cognition, the stress response, and brain dysfunction and recovery. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Prerequisite:</em> PSYC 370.<br> 
+	</dd>
+
+	<dt><a name="388"></a>PSYC 388 (3/6) c <b>Directed Studies in Behavioural Neuroscience</b></dt>
+	<dd>Directed investigation of an experimental problem in Behavioural Neuroscience requiring a written report of the findings. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> At least 72% average in the preceding 30 credits, permission of the supervisor, and permission of the department.<br> 
+	</dd>
+
+	<dt><a name="398"></a>PSYC 398 (3)  <b>Cooperative Work Placement I</b></dt>
+	<dd>Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in Summer Session after third year. Work term report required. Restricted to students admitted to the Co-op Program in Psychology (B.Sc.). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> Co-op Workshops, PSYC 360 or PSYC 371.<br> 
+	</dd>
+
+	<dt><a name="399"></a>PSYC 399 (3)  <b>Cooperative Work Placement II</b></dt>
+	<dd>Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in fourth year Winter Session, Term 1. Work term report required. Restricted to students admitted to the Co-op Program in Psychology (B.Sc.). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> PSYC 398.<br> 
+	</dd>
+
+	<dt><a name="400"></a>PSYC 400 (6)  <b>Clinical Psychology: A Health Profession</b></dt>
+	<dd>Theory, research, practice, and professional issues in clinical psychology, including a practicum placement. Credit will be granted for only one of PSYC 400 and 401. <br > <em>Prerequisite:</em> PSYC 300.<br> 
+	</dd>
+
+	<dt><a name="401"></a>PSYC 401 (3)  <b>Clinical Psychology</b></dt>
+	<dd>Theoretical and research foundations of the processes of assessment and behaviour modification in clinical psychology. Credit will be granted for only one of PSYC 400 or PSYC 401. <br > <em>Prerequisite:</em> PSYC 300.<br> 
+	</dd>
+
+	<dt><a name="402"></a>PSYC 402 (3)  <b>Research in Psychological Disorders</b></dt>
+	<dd>Focus on the cognitive, biological, and motivational underpinnings of psychological disorders. Topics include current research methods, controversies in the research literature, and directions for future research. <br > <em>Prerequisite:</em> Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278;  or (b) all of PSYC 300, PSYC 366.<br> 
+	</dd>
+
+	<dt><a name="403"></a>PSYC 403 (3)  <b>Human Emotion</b></dt>
+	<dd>Developmental, cognitive, and social psychological theories and research on human emotion. <br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277, PSYC 366 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358.<br> 
+	</dd>
+
+	<dt><a name="404"></a>PSYC 404 (3)  <b>Psychology of Religion</b></dt>
+	<dd>Cognitive, emotional, and motivational underpinnings of religious behaviour; supernatural beliefs, magical thinking, ritual, sacrifice; religion's role in morality, prosociality, health, violence, and intergroup relations. <br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277, PSYC 366 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358.<br> 
+	</dd>
+
+	<dt><a name="407"></a>PSYC 407 (3)  <b>Cognition and Culture</b></dt>
+	<dd>Cultural learning; cultural variation and universality in cognition and emotion; cognitive and emotional bases of cultural phenomena. <br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277, PSYC 366 and one of PSYC 307, PSYC 308, PSYC 358.<br> 
+	</dd>
+
+	<dt><a name="408"></a>PSYC 408 (3)  <b>Research in Social Psychology</b></dt>
+	<dd>Representative studies on social psychological topics; emphasis on the formulation of significant questions and the design and execution of relevant research. <br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277, PSYC 366 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358.<br> 
+	</dd>
+
+	<dt><a name="409"></a>PSYC 409 (3)  <b>Cognitive Neuropsychology</b></dt>
+	<dd>The structure of the mind as revealed by brain injury, neurological illness, and surgical intervention.  Topics include attention, memory, language, sense of self, topographic awareness, moral reasoning, emotion, theory of mind, and social awareness. <br > <em>Prerequisite:</em> Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 277;  or (b) PSYC 366 and one of PSYC 309, PSYC 365.<br> 
+	</dd>
+
+	<dt><a name="412"></a>PSYC 412 (3)  <b>Cognitive Development</b></dt>
+	<dd>The development of fundamental cognitive abilities from infancy through adulthood, including traditional approaches to cognitive development as well as new areas of current investigation. <br > <em>Prerequisite:</em> One of PSYC 302, PSYC 315, PSYC 319, PSYC 322, PSYC 325.<br> 
+	</dd>
+
+	<dt><a name="413"></a>PSYC 413 (3)  <b>Social and Personality Development</b></dt>
+	<dd>Comprehensive overview of the psychological processes in the social and personality development of infants, children, and adolescents. <br > <em>Prerequisite:</em> One of PSYC 302, PSYC 315, PSYC 319, PSYC 322, PSYC 325.<br> 
+	</dd>
+
+	<dt><a name="414"></a>PSYC 414 (3)  <b>Research in Developmental Psychology</b></dt>
+	<dd>Advanced study of current research in a specific area of developmental psychology. <br > <em>Prerequisite:</em> Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 277;  or (b) PSYC 366 and one of PSYC 302, PSYC 315, PSYC 319, PSYC 322, PSYC 325.<br> 
+	</dd>
+
+	<dt><a name="415"></a>PSYC 415 (3/6) d <b>Applied Social Psychology</b></dt>
+	<dd>The application of social psychological research and theory to the solution of social problems. <br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277, PSYC 366 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358.<br> 
+	</dd>
+
+	<dt><a name="417"></a>PSYC 417 (3/6) d <b>Special Topics in Psychology</b></dt>
+	<dd>Intensive examination of selected topics and issues in psychology. <br > <em>Prerequisite:</em> Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278;  or (b) PSYC 366.<br> 
+	</dd>
+
+	<dt><a name="418"></a>PSYC 418 (3)  <b>The Self-Concept</b></dt>
+	<dd>Theory and research on the self: development, knowledge, motivation, emotions, presentation. <br > <em>Prerequisite:</em> One of PSYC 217, PSYC 277, PSYC 366 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358.<br> 
+	</dd>
+
+	<dt><a name="420"></a>PSYC 420 (3)  <b>Community Psychology</b></dt>
+	<dd>The relationships between social contexts and wellbeing with a focus on disadvantaged populations.  Students engage in a community service placement to complement academic learning. <br > <em>Prerequisite:</em> Either (a) PSYC 300 or (b) PSYC 308 or (c) PSYC 314 or (d) PSYC 319.<br> 
+	</dd>
+
+	<dt><a name="421"></a>PSYC 421 (3)  <b>Environmental Psychology</b></dt>
+	<dd>Psychological theory and research on the interaction between organisms and the physical environment; emphasis on applications to the design and management of constructed and natural environments.  Credit will be granted for only one of PSYC 421 or PSYC 321. <br > <em>Prerequisite:</em> Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277.<br> 
+	</dd>
+
+	<dt><a name="427"></a>PSYC 427 (3)  <b>Advanced Seminar in Psychology</b></dt>
+	<dd>Investigation of an issue, topic, or phenomenon in psychology, focusing on research deeply within a subfield or integrating research across subfields. <br > <em>Prerequisite:</em> Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278;  or (b) PSYC 366. Restricted to Majors and Honours in Psychology. Consult Section Notes or the Psychology Department website for 300-level course(s) recommended for a specific offering.<br> 
+	</dd>
+
+	<dt><a name="440"></a>PSYC 440 (2-6) c <b>Directed Studies in Psychology</b></dt>
+	<dd>Directed investigation of an experimental problem, requiring a written report of the findings. <br > <em>Prerequisite:</em> At least 72% average in the preceding 30 credits and permission of a faculty member who is prepared to supervise the investigation.<br> 
+	</dd>
+
+	<dt><a name="448"></a>PSYC 448 (2-6) c <b>Directed Studies in Behavioural Neuroscience</b></dt>
+	<dd>Directed investigation of an experimental problem requiring a written report of the findings. <br > <em>Prerequisite:</em> At least a 72% average in the preceding 30 credits and permission of a faculty member who is prepared to supervise the investigation.<br> 
+	</dd>
+
+	<dt><a name="449"></a>PSYC 449 (6)  <b>Honours Seminar and Essay</b></dt>
+	<dd>Students carry out a research project and report on its development during seminars. Students also discuss research by Departmental staff, with emphasis on choice of problems, research design and data analysis. <br > <em>Prerequisite:</em> PSYC 349. Fourth-year standing. Restricted to students in Honours. Intended for students in their graduating year.<br> 
+	</dd>
+
+	<dt><a name="460"></a>PSYC 460 (3)  <b>Behavioural Neuroendocrinology</b></dt>
+	<dd>Detailed examination of the interaction between hormones and neural control of reproductive and non-reproductive behaviours; emphasis on gonadal and adrenal hormone effects on learning and memory in the brain. [3-0-0]<br > <em>Prerequisite:</em> One of PSYC 304, PSYC 360, PSYC 371.<br> 
+	</dd>
+
+	<dt><a name="461"></a>PSYC 461 (3)  <b>Neuroplasticity and Behaviour</b></dt>
+	<dd>Experimental findings and theory documenting the plasticity of the brain and its relationship to behaviour: emphasis on gene regulation, neurogenesis and cell morphology changes in relation to learning and experience. [3-0-0]<br > <em>Prerequisite:</em> One of PSYC 304, PSYC 360, PSYC 371, PSYC 460.<br> 
+	</dd>
+
+	<dt><a name="462"></a>PSYC 462 (3)  <b>Drugs and Behavioural Neuroscience</b></dt>
+	<dd>Introduction to neurochemical systems and functional neuroanatomy; animal models of human cognitive processes and mental disorders; neurochemical foundations and treatments for mental disorders. [3-0-0]<br > <em>Prerequisite:</em> One of PSYC 304, PSYC 360, PSYC 371. BIOL 205 and/or PCTH 325 recommended.<br> 
+	</dd>
+
+	<dt><a name="463"></a>PSYC 463 (3/6) d <b>Research in Sensation and Perception</b></dt>
+	<dd>Vision and audition; physical properties and subjective experience of stimuli. <br > <em>Prerequisite:</em> Either (a) all of PSYC 217, PSYC 218 or (b) one of PSYC 260, PSYC 270 or (c) all of PSYC 277, PSYC 278.<br> 
+	</dd>
+
+	<dt><a name="466"></a>PSYC 466 (3)  <b>Research in Animal Learning and Cognition</b></dt>
+	<dd>Examination and evaluation of studies of animal learning and cognition; includes one or more research projects based on material covered. [3-0-0]<br > <em>Prerequisite:</em> Either (a) all of PSYC 217, PSYC 218 or (b) PSYC 366 and one of PSYC 304, PSYC 360, PSYC 363, PSYC 365, PSYC 371;  or (c) one of BIOL 355, BIOL 455 or (d) one of PHYL 301, PHYL 426 or (e) all of PSYC 277, PSYC 278.<br> 
+	</dd>
+
+	<dt><a name="469"></a>PSYC 469 (3)  <b>Psychoneuroimmunology</b></dt>
+	<dd>Research linking psychological characteristics with the immune system, including implications regarding the onset and course of disease. <br > <em>Prerequisite:</em> Either (a) one of PSYC 314, PSYC 360 or (b) MICB 302 and either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.<br> 
+	</dd>
+
+	<dt><a name="472"></a>PSYC 472 (3)  <b>Advanced Neuroscience of Motivation</b></dt>
+	<dd>Neurobiological pathways mediating five core aspects of motivated behaviour: (1) affective decision making; (2) motivated drive; (3) goal-directed vs. habit-based behaviour; (4) learning from negative reinforcers; and (5) disorders of motivation. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Prerequisite:</em> PSYC 361.<br> 
+	</dd>
+
+	<dt><a name="488"></a>PSYC 488 (3/6) c <b>Directed Studies in Behavioural Neuroscience</b></dt>
+	<dd>Directed investigation of an experimental problem in Behavioural Neuroscience requiring a written report of the findings. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> At least 72% average in the preceding 30 credits, permission of the supervisor, and permission of the department.<br> 
+	</dd>
+
+	<dt><a name="498"></a>PSYC 498 (3)  <b>Cooperative Work Placement III</b></dt>
+	<dd>Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in fourth year Winter Session, Term 2. Work term report required. Restricted to students admitted to the Co-op Program in Psychology (B.Sc.). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> PSYC 399.<br> 
+	</dd>
+
+	<dt><a name="499"></a>PSYC 499 (3)  <b>Cooperative Work Placement IV</b></dt>
+	<dd>Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full time. Normally taken in Summer Session after fourth year. Work term report required. Restricted to students admitted to the Co-op Program in Psychology (B.Sc.). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> PSYC 498.<br> 
+	</dd>
+
+</dl> 
+Source acknowlegement: www.calendar.ubc.ca/vancouver/courses.cfm?page=code&code=PSYC

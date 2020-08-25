@@ -1,0 +1,108 @@
+<dl class="double">
+
+	<dt><a name="200"></a>STAT 200 (3)  <b>Elementary Statistics for Applications</b></dt>
+	<dd>Classical, nonparametric, and robust inferences about means, variances, and analysis of variance, using computers. Emphasis on problem formulation, assumptions, and interpretation. See the Faculty of Science Credit Exclusion Lists: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-1-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> 
+	</dd>
+
+	<dt><a name="201"></a>STAT 201 (3)  <b>Statistical Inference for Data Science</b></dt>
+	<dd>Classical and simulation-based techniques for estimation and hypothesistesting, including inference for means and proportions. Emphasis on casestudies and real data sets, as well as reproducible and transparentworkflows when writing computer scripts for analysis and reports. [3-0-1]<br > <em>Prerequisite:</em> DSCI 100.<br> 
+	</dd>
+
+	<dt><a name="203"></a>STAT 203 (3)  <b>Statistical Methods</b></dt>
+	<dd>Organizing, displaying and summarizing data. Inference estimation and testing for elementary probability models. Not for credit towards a B.Sc. (Consult the Credit Exclusion list within the Faculty of Science section in the Calendar.) [3-1-0]<br > <em>Prerequisite:</em> MATH 11. Or Pre-calculus 11.<br> 
+	</dd>
+
+	<dt><a name="241"></a>STAT 241 (3)  <b>Introductory Probability and Statistics</b></dt>
+	<dd>Probability models, random variables and vectors, estimation, testing, regression, analysis of variance, goodness of fit, quality control. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar). [3-1-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> 
+	</dd>
+
+	<dt><a name="251"></a>STAT 251 (3)  <b>Elementary Statistics</b></dt>
+	<dd>Probability, discrete and continuous random variables, joint probability distributions, estimation, hypothesis testing, regression, analysis of variance, goodness of fit. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar). [3-1-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> 
+	</dd>
+
+	<dt><a name="300"></a>STAT 300 (3)  <b>Intermediate Statistics for Applications</b></dt>
+	<dd>Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing. [3-1-0]<br > <em>Prerequisite:</em> One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, POLI 380, PSYC 218, PSYC 278, PSYC 366.<br> <em>Equivalency:</em> COMM 411.
+	</dd>
+
+	<dt><a name="302"></a>STAT 302 (3)  <b>Introduction to Probability</b></dt>
+	<dd>Basic notions of probability, random variables, expectation and conditional expectation, limit theorems. (Consult the Credit Exclusion list within the Faculty of Science section in the Calendar.) [3-0-0]<br > <em>Prerequisite:</em> One of MATH 200, MATH 226, MATH 217, MATH 253, MATH 254.<br> <em>Equivalency:</em> MATH 302.
+	</dd>
+
+	<dt><a name="305"></a>STAT 305 (3)  <b>Introduction to Statistical Inference</b></dt>
+	<dd>Review of probability theory. Sampling distribution theory, large sample theory and methods of estimation and hypothesis testing, including maximum likelihood estimation, likelihood ratio testing and confidence interval construction. [3-0-1]<br > <em>Prerequisite:</em> Either (a) one of STAT 200, STAT 203, BIOL 300, STAT 241, STAT 251, COMM 291, ECON 325, FRST 231, PSYC 218, PSYC 366 and one of MATH 302, STAT 302;  or (b) a score of 65% or higher in one of MATH 302, STAT 302. The Department recommends that students meet the prerequisite through option (a).<br> 
+	</dd>
+
+	<dt><a name="306"></a>STAT 306 (3)  <b>Finding Relationships in Data</b></dt>
+	<dd>Modelling a response (output) variable as a function of several explanatory (input) variables:  multiple regression for a continuous response, logistic regression for a binary response, and log-linear models for count data.  Finding low-dimensional structure:  principal components analysis.  Cluster analysis.  (Consult the Credit Exclusion List within the Faculty of Science section in the Calendar). [3-0-1]<br > <em>Prerequisite:</em> One of MATH 152, MATH 221, MATH 223 and one of STAT 200, STAT 241, STAT 251, STAT 300, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, PSYC 218, PSYC 278, PSYC 366 and one of MATH 302, STAT 302.<br> 
+	</dd>
+
+	<dt><a name="307"></a>STAT 307 (2)  <b>Statistics Laboratory I</b></dt>
+	<dd>Implementing theory in applications. Problem based learning. Generation and analysis of case data. Modelling, computation and reporting. [0-4-0]<br > <em>Corequisite:</em> STAT 306.<br> 
+	</dd>
+
+	<dt><a name="308"></a>STAT 308 (1)  <b>Statistics Laboratory II</b></dt>
+	<dd>Continuation of STAT 307. [0-2-0]<br > 
+	</dd>
+
+	<dt><a name="321"></a>STAT 321 (4)  <b>Stochastic Signals and Systems</b></dt>
+	<dd>Stochastic behaviour of signals and systems (e.g., communication systems); discrete and continuous probability; random processes; modelling and identification of linear time-invariant systems; binary hypothesis testing and decision making. [3-0-2]<br > <em>Prerequisite:</em> One of EECE 269, ELEC 221, STAT 305. STAT 305 may be taken concurrently, with registration assistance from Statistics Student Services.<br> <em>Equivalency:</em> ELEC 321.
+	</dd>
+
+	<dt><a name="335"></a>STAT 335 (3)  <b>Statistics in Quality Assurance</b></dt>
+	<dd>Philosophy of quality improvement and total quality control. Definitions of quality. Deming's principles, Ishikawa's tools, control charts, acceptance sampling, continuous improvement, quality design. Credit cannot be obtained for both STAT 335 and WOOD 335. [3-0-1]<br > <em>Prerequisite:</em> One of STAT 200, STAT 241, STAT 251, BIOL 300.<br> 
+	</dd>
+
+	<dt><a name="344"></a>STAT 344 (3)  <b>Sample Surveys</b></dt>
+	<dd>Planning and practice of sample surveys. Random sampling, bias and variance, unequal probability sampling, systematic, multistage and stratified sampling, ratio and regression estimators, post-stratification, establishing a frame, pretesting, pilot studies, nonresponse and additional topics. [3-0-1]<br > <em>Prerequisite:</em> One of STAT 200, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, PSYC 218, PSYC 278, PSYC 366.<br> <em>Corequisite:</em> One of MATH 302, STAT 302.<br> 
+	</dd>
+
+	<dt><a name="398"></a>STAT 398 (3)  <b>Co-operative Work Placement I</b></dt>
+	<dd>Work experience in an industrial research setting. Normally taken during Winter Session of third year. Restricted to students admitted to the Co-operative Education Program in Statistics. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> Registration in Statistics Honours or Major Program.<br> 
+	</dd>
+
+	<dt><a name="399"></a>STAT 399 (3)  <b>Co-operative Work Placement II</b></dt>
+	<dd>Work experience in an industrial research setting. Normally taken during Summer Session following third year. Restricted to students admitted to the Co-operative Education Program in Statistics. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> STAT 398.<br> 
+	</dd>
+
+	<dt><a name="404"></a>STAT 404 (3)  <b>Design and Analysis of Experiments</b></dt>
+	<dd>Theory and application of analysis of variance for standard experimental designs, including blocked, nested, factorial and split plot designs. Fixed and random effects, multiple comparisons, analysis of covariance. (Consult the Credit Exclusion list within the Faculty of Science section in the Calendar). [3-0-1]<br > <em>Prerequisite:</em> STAT 305.<br> <em>Corequisite:</em> STAT 306.<br> 
+	</dd>
+
+	<dt><a name="406"></a>STAT 406 (3)  <b>Methods for Statistical Learning</b></dt>
+	<dd>Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets. [3-0-1]<br > <em>Prerequisite:</em> One of STAT 306, CPSC 340.<br> 
+	</dd>
+
+	<dt><a name="443"></a>STAT 443 (3)  <b>Time Series and Forecasting</b></dt>
+	<dd>Trend and seasonality, autocorrelation, stationarity, stochastic models, exponential smoothing, Holt-Winters methods, Box-Jenkins approach, frequency domain analysis. [3-0-1]<br > <em>Prerequisite:</em> One of MATH 302, MATH 318, STAT 302 and one of STAT 200, STAT 241, STAT 251, STAT 300, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, POLI 380, PSYC 218, PSYC 278, PSYC 366.<br> <em>Corequisite:</em> STAT 305.<br> 
+	</dd>
+
+	<dt><a name="445"></a>STAT 445 (3)  <b>Introduction to Exploratory Data Analysis</b></dt>
+	<dd>Methods for exploring and presenting the structure of data: one group of numbers, several groups, bivariate data, time series data and two-way tables. Data displays, outlier identification, transformations, resistant regression, several types of data smoothing, comparisons with standard statistical methods. [3-0-1]<br > <em>Prerequisite:</em> STAT 306.<br> 
+	</dd>
+
+	<dt><a name="447"></a>STAT 447 (2-6) c <b>Special Topics in Statistics</b></dt>
+	<dd>Students should consult the Statistics Department for the particular topics offered in a given year. <br > <em>Prerequisite:</em> STAT 305. Permission of the instructor is required.<br> 
+	</dd>
+
+	<dt><a name="450"></a>STAT 450 (3)  <b>Case Studies in Statistics</b></dt>
+	<dd>Readings and projects in areas of current statistical application including environmental science, industrial statistics, official statistics, actuarial statistics, and medical statistics. [3-0-1]<br > <em>Prerequisite:</em> STAT 306.<br> 
+	</dd>
+
+	<dt><a name="460"></a>STAT 460 (3)  <b>Statistical Inference I</b></dt>
+	<dd>Statistical models and their properties, estimation methods, properties of point and interval estimation, likelihood, Bayesian inference. Intended for Honours students. [3-0-0]<br > <em>Prerequisite:</em> All of MATH 320, STAT 305 and one of MATH 152, MATH 221, MATH 223.<br> 
+	</dd>
+
+	<dt><a name="461"></a>STAT 461 (3)  <b>Statistical Inference II</b></dt>
+	<dd>Hypothesis testing and model selection in modern statistics, confidence regions, multiple testing, model comparison criteria. Intended for Honours students. [3-0-0]<br > <em>Prerequisite:</em> STAT 460.<br> 
+	</dd>
+
+	<dt><a name="498"></a>STAT 498 (3)  <b>Co-operative Work Placement III</b></dt>
+	<dd>Work experience in an industrial research setting. Normally taken during Summer Session following fourth year. Restricted to students admitted to the Co-operative Education Program in Statistics. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="499"></a>STAT 499 (3)  <b>Co-operative Work Placement IV</b></dt>
+	<dd>Work experience in an industrial research setting. Normally taken during Term 1 of Winter Session of fifth year. Restricted to students admitted to the Co-operative Education Program in Statistics. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+</dl> 
+
+Source acknowlegement: www.calendar.ubc.ca/vancouver/courses.cfm?page=code&code=STAT

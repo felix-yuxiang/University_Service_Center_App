@@ -1,0 +1,543 @@
+
+<dl class="double">
+
+	<dt><a name="100"></a>COMM 100 (3)  <b>Introduction to Business</b></dt>
+	<dd>An overview of all functional areas of business. Students will be introduced to the computer and internet tools commonly used in business. For non-Commerce students only. <br > <em>Equivalency:</em> COMR 100.
+	</dd>
+
+	<dt><a name="101"></a>COMM 101 (3)  <b>Business Fundamentals</b></dt>
+	<dd>The different disciplines of business and their combination in management planning and decision-making. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="120"></a>COMM 120 (3)  <b>Business Immersion</b></dt>
+	<dd>A broad introduction to the field of business and how the different disciplines within business interact and combine in business decision-making. For Master of Management - Dual Degree Option students only. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="126"></a>COMM 126 (3)  <b>Data: Description, Display, and Inference</b></dt>
+	<dd>Introduction to the use of data and statistics to convey information on important issues of the world economy. Credit will be granted for only one of COMM 126 or COEC 126. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COEC 126.
+	</dd>
+
+	<dt><a name="186"></a>COMM 186 (1.5-12) d <b>Topics in Business I</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> 
+	</dd>
+
+	<dt><a name="201"></a>COMM 201 (3-36) d <b>Study Abroad, Non-Commerce</b></dt>
+	<dd>A study abroad program developed in cooperation between UBC Faculty of Commerce and another institution offering a set of courses tailored to a particular field of study. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="202"></a>COMM 202 (1)  <b>Career Fundamentals</b></dt>
+	<dd>Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="203"></a>COMM 203 (3)  <b>Managing the Employment Relationship</b></dt>
+	<dd>The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force. Credit will be granted for only one of COMM 203 or COMM 392. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.<br> <em>Equivalency:</em> COMM 392.
+	</dd>
+
+	<dt><a name="204"></a>COMM 204 (3)  <b>Logistics and Operations Management</b></dt>
+	<dd>The design and management of systems to make products, provide services and deliver them to the end user. Credit will be granted for only one of COMM 204 or COMM 399. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 290, COMM 291.<br> <em>Equivalency:</em> COMM 399.
+	</dd>
+
+	<dt><a name="205"></a>COMM 205 (3)  <b>Introduction to Management Information Systems</b></dt>
+	<dd>Overview of computer technology and terminology; use of computers as managerial and administrative tools; the management of computer resources and the influence of information technology within the organization. Credit will be granted for only one of COMM 205 or COMM 391. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMM 391.
+	</dd>
+
+	<dt><a name="220"></a>COMM 220 (3)  <b>Business Communications</b></dt>
+	<dd>An experiential course covering a broad range of business writing and communications. For Master of Management - Dual Degree Option students only. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="271"></a>COMM 271 (3)  <b>Introduction to Capital Markets</b></dt>
+	<dd>Roles of capital market institutions and participants. Skill development for basic financial principles in the quantitative and qualitative evaluation of bond and stock investments. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="280"></a>COMM 280 (3)  <b>Entrepreneurship</b></dt>
+	<dd>Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business. <br > <em>Equivalency:</em> COMR 280.
+	</dd>
+
+	<dt><a name="286"></a>COMM 286 (1.5-12) d <b>Topics in Business II</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> 
+	</dd>
+
+	<dt><a name="290"></a>COMM 290 (3)  <b>Introduction to Quantitative Decision Making</b></dt>
+	<dd>Introduction to decision models in business, including basic optimization, linear programming, probability, decision analysis, random variables, simulation, and solving decision problems using spreadsheet tools. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.<br> <em>Equivalency:</em> BUSI 290.
+	</dd>
+
+	<dt><a name="291"></a>COMM 291 (3)  <b>Application of Statistics in Business</b></dt>
+	<dd>Methods and applications of statistics in business; data analysis, descriptive regression; data generation; sampling distributions; hypothesis testing; confidence intervals; two sample problems; inference in regression. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 290.<br> <em>Equivalency:</em> BUSI 291.
+	</dd>
+
+	<dt><a name="292"></a>COMM 292 (3)  <b>Management and Organizational Behaviour</b></dt>
+	<dd>Behaviour in organizations as it affects people as individuals, their relationships with others, their performance in groups and their effectiveness at work. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="293"></a>COMM 293 (3)  <b>Financial Accounting</b></dt>
+	<dd>Introduction to the construction and interpretation of financial reports prepared primarily for external use. Credit will be granted for only one of COMM 293 or COEC 293. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COEC 293.
+	</dd>
+
+	<dt><a name="294"></a>COMM 294 (3)  <b>Managerial Accounting</b></dt>
+	<dd>Introduction to the development and use of accounting information for management planning and control and the development of cost information for financial reports. Credit will be granted for only one of COMM 294 or COEC 294. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COEC 293, COMM 293.<br> <em>Equivalency:</em> COEC 294.
+	</dd>
+
+	<dt><a name="295"></a>COMM 295 (3)  <b>Managerial Economics</b></dt>
+	<dd>Economic foundations of managerial decision-making. Demand theory, cost and production, market structure, competitive strategy, organization of the firm, welfare-economic foundations of business regulation. Credit will be granted for only one of ECON 201, ECON 206, ECON 301, ECON 304, FRE 295 or COMM 295. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> Either (a) ECON 100 or (b) all of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="296"></a>COMM 296 (3)  <b>Introduction to Marketing</b></dt>
+	<dd>Basic considerations affecting the domestic and international marketing of goods and services. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> COMM 293 and one of COMM 295, ECON 201, ECON 301.<br> 
+	</dd>
+
+	<dt><a name="298"></a>COMM 298 (3)  <b>Introduction to Finance</b></dt>
+	<dd>Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. Credit will be granted for only one of COMM 298 or COEC 298. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Prerequisite:</em> All of COMM 290, COMM 293 and one of COMM 295, ECON 201, ECON 301.<br> <em>Equivalency:</em> COEC 298.
+	</dd>
+
+	<dt><a name="300"></a>COMM 300 (3-36) d <b>Study Abroad, Commerce</b></dt>
+	<dd>A study abroad program developed in cooperation between UBC Faculty of Commerce and another institution offering a set of courses tailored to a particular field of study. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="301"></a>COMM 301 (3-36) d <b>Study Abroad, Commerce</b></dt>
+	<dd>A study abroad program developed in cooperation between the Sauder School of Business and another institution offering a set of courses tailored to a particular field of study.  Pass/Fail. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="302"></a>COMM 302 (3-36) d <b>Study Abroad, Non-Commerce</b></dt>
+	<dd>A study abroad program developed in cooperation between UBC Faculty of Commerce and another institution offering a set of courses tailored to a particular field of study. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="303"></a>COMM 303 (3-36) d <b>Study Abroad, Non-Commerce</b></dt>
+	<dd>A study abroad program developed in cooperation between the Sauder School of Business and another institution offering a set of courses tailored to a particular field of study.  Pass/Fail. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="306"></a>COMM 306 (3)  <b>Urban Land Economics</b></dt>
+	<dd>Examines economic factors affecting the urban land market, with an emphasis on determinants of urban land values, the housing market, urban transportation, and land use policies. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 201, ECON 301.<br> 
+	</dd>
+
+	<dt><a name="307"></a>COMM 307 (3)  <b>Real Estate Investment</b></dt>
+	<dd>Evaluation of investment in real estate assets; proforma analysis, property and asset management, equity securitization, appraisal, and international real estate investment. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 201, ECON 301 and one of COMM 297, COMM 298.<br> 
+	</dd>
+
+	<dt><a name="310"></a>COMM 310 (3)  <b>Simulation Models in Business Decision-Making</b></dt>
+	<dd>Computer simulation, simulation languages. Typical business applications in financial planning, waiting line problems and other operating problems. <br > <em>Prerequisite:</em> COMM 291.<br> 
+	</dd>
+
+	<dt><a name="311"></a>COMM 311 (3)  <b>Research Theory for Commerce Scholars</b></dt>
+	<dd>Social science research: theory, research design, methods, and criticism. For students in the Commerce Scholars Program only. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="312"></a>COMM 312 (3)  <b>Business Ethics Leadership</b></dt>
+	<dd>Skill Development for leading organizations while better managing for values. Recognizing organizational values, and developing concrete plans for better delivering on these values. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="320"></a>COMM 320 (1.5)  <b>Foundations in Accounting I</b></dt>
+	<dd>Preparation of financial statements and use of financial information contained in financial statements to make better decisions. For Master of Management - Dual Degree Option students only. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="321"></a>COMM 321 (1.5)  <b>Organizational Behaviour</b></dt>
+	<dd>Effects of individual and group behaviour on organizational processes and outcomes. Application of relevant frameworks from the social sciences to particular organizational situations. For Master of Management - Dual Degree Option students only. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="329"></a>COMM 329 (3)  <b>Principles of Organizational Behaviour</b></dt>
+	<dd>An introductory examination of work organizations and the behaviour of individuals within them. Phenomena to be studied include organizational structure, environments, group processes, motivation and leadership (for non-Commerce students only). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 329.
+	</dd>
+
+	<dt><a name="335"></a>COMM 335 (3)  <b>Information Systems Technology and Development</b></dt>
+	<dd>Introduction to information technology related to business use. Design, implementation and application of Information Systems. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 205, COMM 391, CPSC 210.<br> 
+	</dd>
+
+	<dt><a name="336"></a>COMM 336 (3)  <b>Introduction to Digital Business</b></dt>
+	<dd>Business fundamentals in the digital economy: leveraging digitization and automation; data and analytics; platforms; crowdsourcing; understanding the impact of digital technologies on firms, markets, economies as well as individuals and society. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 205, COMM 391.<br> 
+	</dd>
+
+	<dt><a name="337"></a>COMM 337 (3)  <b>Business Programming and Analytics</b></dt>
+	<dd>Introduction to object-oriented computer programming; computational thinking; program design; scripting; documentation techniques; file handling; database access; and web crawling techniques. Students will apply data structures and programming constructs to the development of business analytics and other related applications. Credit will be granted for only one of COMM 337 and CPSC 103. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 205.<br> 
+	</dd>
+
+	<dt><a name="342"></a>COMM 342 (3)  <b>Global Supply Chain & Logistics Management I - Study Abroad</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> 
+	</dd>
+
+	<dt><a name="343"></a>COMM 343 (3)  <b>Global Supply Chain & Logistics Management II - Study Abroad</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> 
+	</dd>
+
+	<dt><a name="344"></a>COMM 344 (3)  <b>Global Supply Chain & Logistics Management III - Study Abroad</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> 
+	</dd>
+
+	<dt><a name="345"></a>COMM 345 (3)  <b>Global Supply Chain & Logistics Management IV - Study Abroad</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> 
+	</dd>
+
+	<dt><a name="349"></a>COMM 349 (3)  <b>Logistics Services Management</b></dt>
+	<dd>Overview of the characteristics and commercial environment of logistics and transportation services; service operations planning and design, costing, pricing and quality management. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> One of COMM 204, COMM 296, COMM 396, COMM 399.<br> 
+	</dd>
+
+	<dt><a name="353"></a>COMM 353 (3)  <b>Financial Accounting: Intermediate I</b></dt>
+	<dd>An examination of accounting as a means of measurement and as an information system for external reporting purposes. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 293, COMM 294.<br> <em>Corequisite:</em> Either (a) all of COMM 297, COMM 397 or (b) COMM 298.<br> 
+	</dd>
+
+	<dt><a name="354"></a>COMM 354 (3)  <b>Cost Accounting</b></dt>
+	<dd>The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance. The utilization of statistical analysis and linear models is included. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 290, COMM 291, COMM 293, COMM 294.<br> 
+	</dd>
+
+	<dt><a name="355"></a>COMM 355 (3)  <b>Income Taxation</b></dt>
+	<dd>A study of income tax from the standpoint of the individual and of business enterprise. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 293, COMM 457.<br> 
+	</dd>
+
+	<dt><a name="362"></a>COMM 362 (3)  <b>Consumer Behaviour</b></dt>
+	<dd>The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 296, COMM 396.<br> 
+	</dd>
+
+	<dt><a name="363"></a>COMM 363 (3)  <b>Marketing Analysis</b></dt>
+	<dd>Analytical methods applicable to marketing management decision making; attention to strategic considerations linking analysis of consumer data, corporate data, environmental factors, and competitive response. The course makes extensive use of micro computers. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 296, COMM 396.<br> 
+	</dd>
+
+	<dt><a name="365"></a>COMM 365 (3)  <b>Market Research</b></dt>
+	<dd>The process of marketing research including topics such as problem/opportunity formulation, research objectives, data sources, research instrument design, sampling, data collection and processing and methods of data analysis. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 290, COMM 291 and either (a) COMM 296 or (b) COMM 396;  and one of COMM 295, ECON 201, ECON 301.<br> <em>Corequisite:</em> One of COMM 205, COMM 391.<br> 
+	</dd>
+
+	<dt><a name="370"></a>COMM 370 (3)  <b>Corporate Finance</b></dt>
+	<dd>Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 298.<br> <em>Equivalency:</em> COEC 370.
+	</dd>
+
+	<dt><a name="371"></a>COMM 371 (3)  <b>Investment Theory</b></dt>
+	<dd>Basic concepts of finance, including security valuation, security markets, and financial decisions concerning risk and return. Credit will be granted for only one of COMM 371 or COEC 371. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 298.<br> <em>Equivalency:</em> COEC 371.
+	</dd>
+
+	<dt><a name="374"></a>COMM 374 (3)  <b>Applied Financial Markets</b></dt>
+	<dd>Introduction to methodologies and evidence concerning the structure and operation of security markets and the valuation of financial securities including stocks, bonds, options and futures contracts; portfolio management, corporate finance and investment decisions. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 370, COMM 371.<br> 
+	</dd>
+
+	<dt><a name="376"></a>COMM 376 (3)  <b>Financial Institutions I</b></dt>
+	<dd>The financial systems in Canada; the practices of the major financial institutions; and theories of financial processes. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 297, COMM 298.<br> 
+	</dd>
+
+	<dt><a name="377"></a>COMM 377 (3)  <b>International Financial Markets and Institutions</b></dt>
+	<dd>Structure, nature and institutions of foreign exchange markets, including spot, forward, futures, options, and offshore currency markets. Factors affecting exchange rates are also discussed. Credit will be granted for only one of ECON 456, COMM 377, or COEC 377. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 370, COMM 371.<br> <em>Equivalency:</em> COEC 377.
+	</dd>
+
+	<dt><a name="379"></a>COMM 379 (3)  <b>Introduction to Pensions and Insurance</b></dt>
+	<dd>Financial dimensions and institutional structure of the pension and insurance industry; calculation of annuities and other aspects of actuarial science based on probability distributions and asset returns. Suitable for students in mathematics who have taken basic finance and for commerce students in finance, accounting and related areas. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="380"></a>COMM 380 (3)  <b>Co-operative Work Placement I</b></dt>
+	<dd>Approved and supervised work experience for a minimum of 3.5 months. Normally taken during the winter term of the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Commerce. Option-specific prerequisites apply. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="381"></a>COMM 381 (3)  <b>Co-operative Work Placement II</b></dt>
+	<dd>Approved and supervised work experience for a minimum of 3.5 months. Normally taken during the summer term of the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Commerce. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 380.<br> 
+	</dd>
+
+	<dt><a name="382"></a>COMM 382 (3)  <b>Economics of Entrepreneurship and Innovation</b></dt>
+	<dd>Fundamental economic issues faced by entrepreneurs who want to commercialize innovations within start-ups and established firms. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 382.
+	</dd>
+
+	<dt><a name="383"></a>COMM 383 (3)  <b>Innovation Leadership</b></dt>
+	<dd>Social science frameworks useful for understanding organizational innovation processes and application of these frameworks to innovation. Diagnosing and solving a broad range of organizational innovation challenges from the perspective of an innovation leader. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="386"></a>COMM 386 (1.5-12) d <b>Topics in Business III</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> <em>Equivalency:</em> COMR 386.
+	</dd>
+
+	<dt><a name="387"></a>COMM 387 (3)  <b>Entrepreneurial Finance</b></dt>
+	<dd>Financial issues encountered by those active on the investing side of entrepreneurship, such as working for banks, venture capital firms, or corporate venture organizations, or anyone interacting with entrepreneurs and private equity investors. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 387.
+	</dd>
+
+	<dt><a name="388"></a>COMM 388 (3)  <b>Design Methods for Business Innovation</b></dt>
+	<dd>Studio-based experience in thinking strategies and design processes applied to business innovation in the private, public, and social sectors. Emphasis on problem solving, co-creation, and innovation for external clients in a collaborative environment. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 388.
+	</dd>
+
+	<dt><a name="389"></a>COMM 389 (3)  <b>Creativity in Business</b></dt>
+	<dd>The role and importance of creativity in developing successful business solutions. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 389.
+	</dd>
+
+	<dt><a name="390"></a>COMM 390 (3)  <b>Business Writing</b></dt>
+	<dd>An activity-focused course providing the opportunity to study and practice forms of writing needed in business. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ENGL 112, ASTU 150, WRDS 150, ENGL 100, ENGL 120, ENGL 121. ENGL 1st, Arts One, a minimum of 18 cr. of Coordinated Arts Program.<br> 
+	</dd>
+
+	<dt><a name="393"></a>COMM 393 (3)  <b>Commercial Law</b></dt>
+	<dd>Introduction to the law of contracts, with particular reference to contracts for sale of goods and related law of personal property; principles of agency, partnerships and company law. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="394"></a>COMM 394 (3)  <b>Government and Business</b></dt>
+	<dd>Roles of government and business in the Canadian economy including effects of public policy on the business environment. Ethical foundations of government, business and personal decision-making. Credit will be granted for only one of COEC 394 or COMM 394. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 201, ECON 301.<br> <em>Equivalency:</em> COEC 394.
+	</dd>
+
+	<dt><a name="395"></a>COMM 395 (3)  <b>Business Communications</b></dt>
+	<dd>Understanding non-written communications in day-to-day business. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="398"></a>COMM 398 (3)  <b>Introduction to Business Processes and Operations</b></dt>
+	<dd>The design and management of systems that efficiently and effectively supply products and services to the end-user. The concepts apply to a variety of settings such as manufacturing, logistics, healthcare, and others (For non-Commerce students only). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 398.
+	</dd>
+
+	<dt><a name="405"></a>COMM 405 (3)  <b>Real Estate Finance</b></dt>
+	<dd>The role of mortgage markets, mathematical analysis of return and valuation issue and methods of dealing with lender and borrower risk exposure. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 297, COMM 298.<br> 
+	</dd>
+
+	<dt><a name="407"></a>COMM 407 (3)  <b>Real Estate Economics</b></dt>
+	<dd>The economics of real estate markets. Topics include real estate cycles and bubbles, search models and vacancy, the relationship between real estate and the economy, housing demand, and models of housing supply. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 201, ECON 301.<br> 
+	</dd>
+
+	<dt><a name="408"></a>COMM 408 (3)  <b>Real Estate Development</b></dt>
+	<dd>The development process from theories of development, market analysis, site selection, project design, land use regulation and financial analysis. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 297, COMM 298 and one of COMM 295, ECON 201, ECON 301.<br> 
+	</dd>
+
+	<dt><a name="411"></a>COMM 411 (3)  <b>Intermediate Business Statistics</b></dt>
+	<dd>Statistical techniques useful in business environments. Includes regression analysis, analysis of variance, forecasting, and logit and probit analysis. Credit may be obtained for only one of STAT 300, 306, and COMM 411. <br > <em>Prerequisite:</em> COMM 291.<br> <em>Equivalency:</em> STAT 300.
+	</dd>
+
+	<dt><a name="412"></a>COMM 412 (3)  <b>Negotiation</b></dt>
+	<dd>Negotiation simulations to provide experience and confidence in the negotiation process and to develop effective skills for achieving objectives. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="414"></a>COMM 414 (3)  <b>Data Visualization and Business Analytics</b></dt>
+	<dd>Descriptive analytics including data analysis and visualization. Predictive analytics including forecasting and various statistical techniques. Predictive analytics including optimization, Monte Carlo simulation, decision trees, and discrete event simulation. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 204, COMM 399.<br> 
+	</dd>
+
+	<dt><a name="415"></a>COMM 415 (3)  <b>Quantitative Policy Analysis</b></dt>
+	<dd>Quantitative evaluation of public policies using statistical evaluation methods, cost benefit, and effectiveness analyses. Public policies affecting service provision and infrastructure investment in air, rail, marine, public transit, and pipelines evaluated on pricing, operating costs, productivity, safety, security, and the environment. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 201, ECON 301.<br> 
+	</dd>
+
+	<dt><a name="420"></a>COMM 420 (1.5)  <b>Marketing</b></dt>
+	<dd>Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="421"></a>COMM 421 (1.5)  <b>Introductory Finance</b></dt>
+	<dd>Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. For Master of Management - Dual Degree Option students only. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="425"></a>COMM 425 (3)  <b>Research Methods for Human Resource Management</b></dt>
+	<dd>Techniques for collection and analysis of data in organizations to support adoption and administration of human resource management. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 291, COMM 292, COMM 327.<br> 
+	</dd>
+
+	<dt><a name="428"></a>COMM 428 (3)  <b>Selected Topics in Human Resource Management</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> <em>Prerequisite:</em> All of COMM 327, COMM 425.<br> 
+	</dd>
+
+	<dt><a name="431"></a>COMM 431 (3)  <b>Law of Business Organizations and Corporate Governance</b></dt>
+	<dd>Statutory provisions and case law that regulate the creation and governance of sole proprietorships, partnerships, corporations, joint ventures, and franchises in British Columbia. Fiduciary duties of partners, directors and officers are also examined. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 393.<br> 
+	</dd>
+
+	<dt><a name="434"></a>COMM 434 (3)  <b>Land Law</b></dt>
+	<dd>Legal principles and concepts relating to real estate and land development. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 393.<br> 
+	</dd>
+
+	<dt><a name="435"></a>COMM 435 (3)  <b>CIO Strategies</b></dt>
+	<dd>Common issues faced by Chief Information Officers (CIO): Cost and value of information technology (IT), IT priorities, IT and the Board of Directors, Business-IT alignment, IT governance, IT talent management, standardization vs. innovation, project and vendor management/partnering, and managing security and risks. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 205.<br> 
+	</dd>
+
+	<dt><a name="436"></a>COMM 436 (3)  <b>Information Systems Analysis and Design</b></dt>
+	<dd>The process of information systems development; modern techniques and tools for systems analysis and design. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 335, CPSC 310.<br> 
+	</dd>
+
+	<dt><a name="437"></a>COMM 437 (3)  <b>Database Technology</b></dt>
+	<dd>Theory and technology of database management from an applications perspective; database design; database administration. Credit will be granted for only one of COMM 437, COEC 437, or CPSC 304. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 335.<br> 
+	</dd>
+
+	<dt><a name="438"></a>COMM 438 (3)  <b>Management of Information Systems</b></dt>
+	<dd>Managerial issues in the administration of computerized information systems. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 205, COMM 391.<br> 
+	</dd>
+
+	<dt><a name="439"></a>COMM 439 (3)  <b>Business Telecommunications</b></dt>
+	<dd>Basic data communications concepts and technology; local area, wide area, and enterprise networks; the Internet; wireless networking; network development life cycle; network security and management. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 335.<br> 
+	</dd>
+
+	<dt><a name="441"></a>COMM 441 (3)  <b>Advanced Business Logistics</b></dt>
+	<dd>Analysis of logistics systems within firms and across supply chains. The formulation of corporate logistics strategies. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> One of COMM 204, COMM 399.<br> 
+	</dd>
+
+	<dt><a name="443"></a>COMM 443 (3)  <b>Service Operations</b></dt>
+	<dd>This primarily case-based course will cover service operations in general (50%), health care operations (25%), and revenue management (25%). Applications of queuing models will be included in both services in general and healthcare. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 204, COMM 399.<br> 
+	</dd>
+
+	<dt><a name="444"></a>COMM 444 (3)  <b>Air Transportation</b></dt>
+	<dd>An integrative treatment of air transport management including: demand analysis, sales and marketing, globalization trends, aircraft selection and fleet planning; airport economics and management. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 201, ECON 301.<br> 
+	</dd>
+
+	<dt><a name="445"></a>COMM 445 (3)  <b>Maritime and International Transportation</b></dt>
+	<dd>The characteristics of shipping services and the role of shipping services in the design and management of international logistics systems. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="446"></a>COMM 446 (3)  <b>Transportation Economics</b></dt>
+	<dd>Economic characteristics of passenger and freight transportation services; market structure of the transportation industry; economic impact of public regulation and promotion and the role of economic analysis in resolving problems of Canadian policy. Credit may be obtained for only one of COMM 446, ECON 480. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 201, ECON 301, ECON 206.<br> <em>Equivalency:</em> ECON 480.
+	</dd>
+
+	<dt><a name="447"></a>COMM 447 (3)  <b>Applied Project Management</b></dt>
+	<dd>Project management methodology based on the practices defined by the Project Management Institute, including planning, execution, monitoring, control, and completion. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 295, ECON 301.<br> 
+	</dd>
+
+	<dt><a name="448"></a>COMM 448 (3)  <b>Business Logistics and Logistics Services Management</b></dt>
+	<dd>General services management including warehousing, transportation, intermodal, order-fulfillment, dispatching, and more. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 204, COMM 399.<br> 
+	</dd>
+
+	<dt><a name="449"></a>COMM 449 (3)  <b>Supply-Chain Management</b></dt>
+	<dd>Integrated management of production and logistics systems; management of inter-organizational  relationships in the supply chain, including vendor selection, bidding and negotiation processes, partnering and performance measurement. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 204, COMM 399.<br> 
+	</dd>
+
+	<dt><a name="450"></a>COMM 450 (3)  <b>Financial Accounting - Intermediate II</b></dt>
+	<dd>Intermediate II. Continuation of the examination of accounting as a means of measurement and as an information system for external reporting purposes. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 353.<br> 
+	</dd>
+
+	<dt><a name="452"></a>COMM 452 (3)  <b>Taxes and Decision Making</b></dt>
+	<dd>Analysis of business and financial decisions in the presence of taxes. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> BUSI 485.
+	</dd>
+
+	<dt><a name="453"></a>COMM 453 (3)  <b>Financial Accounting-Advanced</b></dt>
+	<dd>An examination of advanced financial accounting. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 353, COMM 450.<br> 
+	</dd>
+
+	<dt><a name="454"></a>COMM 454 (3)  <b>Accounting for Management Control and Incentives</b></dt>
+	<dd>Design of accounting systems for facilitating and influencing management decisions, with emphasis on performance evaluation in organizations. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 294.<br> 
+	</dd>
+
+	<dt><a name="455"></a>COMM 455 (3)  <b>Principles of Auditing</b></dt>
+	<dd>Principles of internal control, audit evidence, sampling and testing; audit reports; standards; responsibilities of the external auditor. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 353.<br> <em>Corequisite:</em> COMM 450.<br> 
+	</dd>
+
+	<dt><a name="456"></a>COMM 456 (3)  <b>Information Technology Risks, Protection and Audit</b></dt>
+	<dd>Business risks associated with the use of information technology. Controls for integrity, security safety, and privacy of hardware, software, data and communications. Methods for auditing information systems and their controls. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 335.<br> 
+	</dd>
+
+	<dt><a name="457"></a>COMM 457 (3)  <b>Fundamentals of Financial Accounting</b></dt>
+	<dd>Financial accounting for business organizations; principles and problems of accounting measurements; forms of business organizations; financing of businesses. (For non-Commerce students only). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 457.
+	</dd>
+
+	<dt><a name="458"></a>COMM 458 (3)  <b>Fundamentals of Managerial Accounting</b></dt>
+	<dd>Use of accounting data in decision making by businesses; financial statement analysis; cash flows; cost behaviour patterns; methods of accounting for costs. (For non-Commerce students only). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 293, COMM 457, COMR 457.<br> <em>Equivalency:</em> COMR 458.
+	</dd>
+
+	<dt><a name="459"></a>COMM 459 (3)  <b>Financial Statement Analysis</b></dt>
+	<dd>An examination of financial statement information from the perspective of decision makers external to the firm, e.g., investors and financial institutions. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 293 and one of COMM 297, COMM 298 and one of COMM 370, COMM 397.<br> 
+	</dd>
+
+	<dt><a name="460"></a>COMM 460 (3)  <b>Social and Nonprofit Marketing</b></dt>
+	<dd>Examines the role, use, and application of marketing in government agencies and nonprofit institutions. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="461"></a>COMM 461 (3)  <b>Business Development</b></dt>
+	<dd>Principles and practice of personal selling and leadership of teams: strategy, tactics, and implementation. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 296.<br> 
+	</dd>
+
+	<dt><a name="462"></a>COMM 462 (3)  <b>Integrated Marketing Communication</b></dt>
+	<dd>Marketing communication campaign strategy, conceptual framework, and practical application for integrated marketing communications, including advertising. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 362.<br> 
+	</dd>
+
+	<dt><a name="463"></a>COMM 463 (3)  <b>Special Topics in Marketing</b></dt>
+	<dd>An investigation of current developments in both retailing and wholesaling fields and their application to marketing institutions. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="464"></a>COMM 464 (3)  <b>Digital Marketing</b></dt>
+	<dd>Investigation of Internet-based marketing, emphasizing customer-focused perspectives, competitive situations and analysis of the effectiveness of business websites using marketing principles and practices. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 296, COMM 396.<br> 
+	</dd>
+
+	<dt><a name="465"></a>COMM 465 (3)  <b>Marketing Management</b></dt>
+	<dd>Basic considerations affecting the domestic and international marketing of goods and services. (For non-Commerce students only). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.<br> <em>Equivalency:</em> COMR 465.
+	</dd>
+
+	<dt><a name="466"></a>COMM 466 (6)  <b>New Venture Design</b></dt>
+	<dd>Teams comprising students in COMM 466 and APSC 486 propose a new product, produce a viable prototype, and develop a business plan for the marketplace.  Credit may only be obtained for one of COMM 466, COMM 497, COEC 497, COMR 497, and APSC 486. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="467"></a>COMM 467 (3)  <b>Brand Management</b></dt>
+	<dd>Issues and challenges commonly faced by brand managers, including: assessing brand meaning, evaluating brand health, assessing a brand's leverage potential, evaluating brand extensions, managing brands through a crisis, and assessing brand value. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 296.<br> 
+	</dd>
+
+	<dt><a name="468"></a>COMM 468 (3)  <b>Marketing Applications</b></dt>
+	<dd>Applied marketing planning with emphasis on a major industrial analysis and the subsequent development of a detailed marketing plan for an operating organization. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 362, COMM 363, COMM 365.<br> 
+	</dd>
+
+	<dt><a name="469"></a>COMM 469 (3)  <b>International Marketing</b></dt>
+	<dd>An analysis of the scope and significance of contemporary international business operations with particular reference to the marketing management problems encountered by firms with multinational branches and subsidiaries. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 296, COMM 396.<br> 
+	</dd>
+
+	<dt><a name="470"></a>COMM 470 (3)  <b>Venture Capital</b></dt>
+	<dd>Theory and evidence concerning venture capital markets. Contracting, fundraising, and financing choice covered in depth, with the aim of catering to students looking to raise money for entrepreneurial ventures or to invest in entrepreneurial ventures. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 370, COMM 387.<br> 
+	</dd>
+
+	<dt><a name="471"></a>COMM 471 (3)  <b>Mergers and Acquisitions</b></dt>
+	<dd>Mergers and acquisitions as a focal point in making important corporate decisions deduced from careful study of relevant business cases. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 370.<br> 
+	</dd>
+
+	<dt><a name="473"></a>COMM 473 (3)  <b>Business Finance</b></dt>
+	<dd>Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310;  and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.<br> <em>Corequisite:</em> One of COMM 293, COMM 457, COMR 457.<br> <em>Equivalency:</em> COMR 473.
+	</dd>
+
+	<dt><a name="474"></a>COMM 474 (3)  <b>Fixed Income Markets and Management</b></dt>
+	<dd>Fixed income instruments and derivatives. Risk profiles and their use in establishing fixed income investment portfolios. Performance attribution techniques. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> COMM 374.<br> 
+	</dd>
+
+	<dt><a name="475"></a>COMM 475 (3)  <b>Investment Policy</b></dt>
+	<dd>The management of security portfolios for individual and institutional investors; relation of investment policy to money markets and business fluctuations. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 371.<br> 
+	</dd>
+
+	<dt><a name="477"></a>COMM 477 (3)  <b>Risk Management and Financial Engineering</b></dt>
+	<dd>Principles of financial engineering and risk management. Use of derivatives in risk management. Valuation and hedging models for contingent claims. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 374.<br> 
+	</dd>
+
+	<dt><a name="479"></a>COMM 479 (3)  <b>Advanced Topics on Corporate Finance</b></dt>
+	<dd>Corporate Finance is the process by which corporations raise money, allocate funds to real assets, and manage the flow of funds back to the investors. Topics will vary according to interests of students, instructors, and developments in the field. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Corequisite:</em> All of COMM 370, COMM 371.<br> 
+	</dd>
+
+	<dt><a name="480"></a>COMM 480 (3)  <b>Co-operative Work Placement III</b></dt>
+	<dd>Approved and supervised work experience for a minimum of 35 months. Normally taken during the summer term of the fourth year. Technical report required. Restricted to students admitted to the Co-operative. Education Program in Commerce. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 381.<br> 
+	</dd>
+
+	<dt><a name="481"></a>COMM 481 (3)  <b>Co-operative Work Placement IV</b></dt>
+	<dd>Approved and supervised work experience for a minimum of 35 months. Normally taken during the fall term of the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Commerce. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> COMM 480.<br> 
+	</dd>
+
+	<dt><a name="482"></a>COMM 482 (3)  <b>New Product Development</b></dt>
+	<dd>How new products are developed and the factors that influence success and failure throughout the various stages of development. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 482..
+	</dd>
+
+	<dt><a name="483"></a>COMM 483 (6)  <b>Leadership and General Management</b></dt>
+	<dd>Integration and application of business knowledge to make business decisions across disciplines; development of personal leadership ability and style. Case-based with guest speakers. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="484"></a>COMM 484 (3)  <b>Sustainability Marketing</b></dt>
+	<dd>Role of marketing in creating social value. Integration of marketing fundamentals with core social, environmental, and economic principles of sustainability. Analysis of current sustainability trends. Development of strategic and practical marketing recommendations for for-profit enterprises. Potential and pitfalls of sustainability marketing. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="485"></a>COMM 485 (3)  <b>Social Entrepreneurship</b></dt>
+	<dd>An applied course that examines the innovative, growing, and rapidly evolving field of social entrepreneurship, which tackles social and environmental challenges through business perspectives and methods. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Equivalency:</em> COMR 485.
+	</dd>
+
+	<dt><a name="486"></a>COMM 486 (1.5-12) d <b>Special Topics in Business</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> <em>Equivalency:</em> COMR 486.
+	</dd>
+
+	<dt><a name="487"></a>COMM 487 (3)  <b>Environmental Management</b></dt>
+	<dd>Explores corporate environmental strategy by introducing economic principles underlying environmental policy, law, and technologies for pollution prevention and abatement, environmental management systems, ISO-14001, energy systems, eco-marketing, and life-cycle analysis.  Credit will be granted for only one of COMM 487 or COMM 597. <br > 
+	</dd>
+
+	<dt><a name="488"></a>COMM 488 (3)  <b>Public Sector Management</b></dt>
+	<dd>This course focuses on some of the distinctive aspects of managing in the public sector. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="490"></a>COMM 490 (3/6) d <b>Directed Studies in Commerce</b></dt>
+	<dd>An investigation and report on a topic to be agreed upon by a member of the faculty and a senior student. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="491"></a>COMM 491 (3)  <b>Strategic Management</b></dt>
+	<dd>Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 390, COMM 395. Fourth-year standing.<br> <em>Equivalency:</em> COEC 491.
+	</dd>
+
+	<dt><a name="492"></a>COMM 492 (3)  <b>Management Simulation</b></dt>
+	<dd>Student teams manage hypothetical firms in a complex simulation, coordinating production, finance, marketing and strategic planning in competition with other teams. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 390, COMM 395. Fourth-year standing.<br> 
+	</dd>
+
+	<dt><a name="493"></a>COMM 493 (3)  <b>Strategic Management in Business</b></dt>
+	<dd>A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change (For non-Commerce students only in fourth year). <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of COMM 293, COMM 457, COMR 457 and either (a) all of ECON 101, ECON 102 or (b) all of ECON 310, ECON 311 or (c) ECON 100 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.<br> <em>Corequisite:</em> One of COMM 329, COMR 329 and one of COMM 465, COMR 465 and one of COMM 473, COMR 473.<br> <em>Equivalency:</em> BUSI 493, COMR 493.
+	</dd>
+
+	<dt><a name="495"></a>COMM 495 (3)  <b>Business and Sustainable Development</b></dt>
+	<dd>An overview of environmental issues, focusing on corporate strategy, government policy and interactions between these two sectors of the economy. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="497"></a>COMM 497 (3)  <b>New Enterprise Development</b></dt>
+	<dd>The particular problems and experiences encountered in starting, developing and managing new enterprises. The course includes lectures, guest speakers, and case studies. Credit may only be obtained for one of COMM 466, COMM 497, COEC 497, COMR 497, and APSC 486. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 390, COMM 395. Fourth-year standing.<br> <em>Equivalency:</em> COEC 497, COMR 497.
+	</dd>
+
+	<dt><a name="498"></a>COMM 498 (3)  <b>International Business Management</b></dt>
+	<dd>Development of general environmental framework for international business studies by drawing on international and development economics, research into government-business relations and studies in comparative socio-cultural systems and political systems. Credit will be granted for only one of COMM 498 or COEC 498. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> All of COMM 390, COMM 395. Fourth-year standing.<br> <em>Equivalency:</em> COEC 498.
+	</dd>
+</dl>

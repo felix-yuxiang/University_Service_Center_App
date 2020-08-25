@@ -1,0 +1,381 @@
+<dl class="double">
+
+	<dt><a name="100"></a>MATH 100 (3)  <b>Differential Calculus with Applications to Physical Sciences and Engineering</b></dt>
+	<dd>Derivatives of elementary functions. Applications and modelling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> High-school calculus and one of (a) a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12, or (b) a satisfactory score in the UBC Mathematics Basic Skills Test.<br> 
+	</dd>
+
+	<dt><a name="101"></a>MATH 101 (3)  <b>Integral Calculus with Applications to Physical Sciences and Engineering</b></dt>
+	<dd>The definite integral, integration techniques, applications, modelling, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.<br> 
+	</dd>
+
+	<dt><a name="102"></a>MATH 102 (3)  <b>Differential Calculus with Applications to Life Sciences</b></dt>
+	<dd>Functions, derivatives, optimization, growth and decay, discrete probability. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> High-school calculus and one of (a) a grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12, or (b) a satisfactory score in the UBC Mathematics Basic Skills Test.<br> 
+	</dd>
+
+	<dt><a name="103"></a>MATH 103 (3)  <b>Integral Calculus with Applications to Life Sciences</b></dt>
+	<dd>Antiderivatives and definite integrals, infinite series, applications to probability and dynamical systems. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.<br> 
+	</dd>
+
+	<dt><a name="104"></a>MATH 104 (3)  <b>Differential Calculus with Applications to Commerce and Social Sciences</b></dt>
+	<dd>Derivatives and rates of change, exponential and trigonometric functions, Newton's method, Taylor polynomials, maxima and minima, and graphing. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> High-school calculus and one of (a) a grade of 80% or higher in BC Principles of Mathematics 12  or Pre-calculus 12, or (b) a satisfactory score in the UBC Mathematics Basic Skills Test.<br> 
+	</dd>
+
+	<dt><a name="105"></a>MATH 105 (3)  <b>Integral Calculus with Applications to Commerce and Social Sciences</b></dt>
+	<dd>Antiderivatives, the definite integral, techniques of integration, infinite series, partial derivatives, maxima and minima with constraints, discrete and continuous random variables. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.<br> 
+	</dd>
+
+	<dt><a name="110"></a>MATH 110 (6)  <b>Differential Calculus</b></dt>
+	<dd>Topics as for MATH 100, but including relevant topics from algebra, geometry, functions, trigonometry, logarithms, and exponentials. [3-0-1.5]<br > <em>Prerequisite:</em> BC Principles of Mathematics 12 or Pre-calculus 12 (or equivalent), plus permission of  the Mathematics Department;  permission will normally be based on a low grade in BC Principles of Mathematics 12 or Pre-calculus 12 (or equivalent) and a low score in the optional UBC Mathematics Basic Skills Test if taken. See http://www.math.ubc.ca/Ugrad/m110.shtml for details.<br> 
+	</dd>
+
+	<dt><a name="120"></a>MATH 120 (4)  <b>Honours Differential Calculus</b></dt>
+	<dd>Limits, derivatives, Mean Value Theorem and applications, elementary functions, optimization, Taylor series, approximation. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [4-0-0]<br > <em>Prerequisite:</em> High-school calculus and one of (a) a score of 95% or higher in BC Principles of Mathematics 12 or Pre-calculus 12; or (b) permission from the Mathematics Department Head.<br> 
+	</dd>
+
+	<dt><a name="121"></a>MATH 121 (4)  <b>Honours Integral Calculus</b></dt>
+	<dd>Definite integrals and the Fundamental Theorem of Calculus, techniques and applications of integration, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [4-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 68% or higher in MATH 120 or (b) a score of 80% or higher in one of MATH 100, MATH 102, MATH 104, MATH 180, MATH 184 or (c) a score of 5 in AP Calculus AB.<br> 
+	</dd>
+
+	<dt><a name="152"></a>MATH 152 (3)  <b>Linear Systems</b></dt>
+	<dd>2D and 3D geometry, vectors and matrices, eigenvalues and vibration, physical applications. Laboratories demonstrate computer solutions of large systems. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-1*-0]<br > <em>Corequisite:</em> MATH 101.<br> 
+	</dd>
+
+	<dt><a name="180"></a>MATH 180 (4)  <b>Differential Calculus with Physical Applications</b></dt>
+	<dd>Topics as for Math 100; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination. [3-0-1.5]<br > <em>Prerequisite:</em> One of BC Principles of Mathematics 12 or Pre-calculus 12 and one of (a) a grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12, (b) a satisfactory score in the UBC Mathematics Basic Skills Test.<br> 
+	</dd>
+
+	<dt><a name="184"></a>MATH 184 (4)  <b>Differential Calculus for Social Science and Commerce</b></dt>
+	<dd>Topics as for Math 104; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination. [3-0-1.5]<br > <em>Prerequisite:</em> One of BC Principles of Mathematics 12 or Pre-calculus 12 and one of (a) a grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12, or (b) a satisfactory score in the UBC Mathematics Basic Skills Test.<br> 
+	</dd>
+
+	<dt><a name="190"></a>MATH 190 (4)  <b>Calculus Survey</b></dt>
+	<dd>Functions, derivatives, integrals, curve sketching growth functions, volume calculations.  Only for credit in the Faculty of Forestry.  Students with credit for MATH 100, 102, 104, 120, 180, or 184 cannot in the same term or later terms obtain credit for MATH 190. [3-0-2]<br > <em>Prerequisite:</em> Principles of Mathematics 12 or Pre-calculus 12 and registration in the B.S.F. or B.Sc.N. programs.<br> 
+	</dd>
+
+	<dt><a name="200"></a>MATH 200 (3)  <b>Calculus III</b></dt>
+	<dd>Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> 
+	</dd>
+
+	<dt><a name="210"></a>MATH 210 (3)  <b>Introduction to Mathematical Computing</b></dt>
+	<dd>Introduction to numerical computation, computer algebra, mathematical graphics. Primarily for second year students taking a degree in mathematics. One hour laboratory each week. [3-1-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> <em>Corequisite:</em> One of MATH 215, MATH 255, MATH 256, MATH 258 and one of MATH 152, MATH 221, MATH 223.<br> 
+	</dd>
+
+	<dt><a name="215"></a>MATH 215 (3)  <b>Elementary Differential Equations I</b></dt>
+	<dd>First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems. Applications of these topics will be emphasized. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.<br> <em>Corequisite:</em> One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.<br> 
+	</dd>
+
+	<dt><a name="217"></a>MATH 217 (4)  <b>Multivariable and Vector Calculus</b></dt>
+	<dd>Partial differentiation, extreme values, multiple integration, vector fields, line and surface integrals, the divergence theorem, Green's and Stokes' theorems.  Intended for students in Honours Physics and Engineering Physics. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [4-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in one of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> <em>Corequisite:</em> One of MATH 152, MATH 221, MATH 223.<br> 
+	</dd>
+
+	<dt><a name="220"></a>MATH 220 (3)  <b>Mathematical Proof</b></dt>
+	<dd>Sets and functions; induction; cardinality;  properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout. [3-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 64% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001 or (b) one of MATH 121, MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.<br> 
+	</dd>
+
+	<dt><a name="221"></a>MATH 221 (3)  <b>Matrix Algebra</b></dt>
+	<dd>Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 64% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 or (c) advanced credit for MATH 100.<br> 
+	</dd>
+
+	<dt><a name="223"></a>MATH 223 (3)  <b>Linear Algebra</b></dt>
+	<dd>Matrices, eigenvectors, diagonalization, orthogonality, linear systems, applications. Intended for Honours students. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> Either (a) MATH 121 or (b) a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.<br> 
+	</dd>
+
+	<dt><a name="226"></a>MATH 226 (3)  <b>Advanced Calculus I</b></dt>
+	<dd>Functions of several variables: limits, continuity, differentiability; implicit functions; Taylor's theorem; extrema; Lagrange multipliers; multiple integration, Fubini's theorem; improper integrals. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 68% or higher in MATH 121 or (b) a score of 80% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.<br> <em>Corequisite:</em> One of MATH 152, MATH 221, MATH 223.<br> 
+	</dd>
+
+	<dt><a name="227"></a>MATH 227 (3)  <b>Advanced Calculus II</b></dt>
+	<dd>Parametrization of curves and surfaces; line and surface integrals; theorems of Green, Gauss, Stokes; applications to physics and/or introduction to differential forms. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in MATH 226.<br> 
+	</dd>
+
+	<dt><a name="230"></a>MATH 230 (3)  <b>Introduction to Finite Mathematics</b></dt>
+	<dd>Difference equations, number theory, counting.  Intended primarily for students not in the Faculty of Science who wish to have some exposure to mathematical thinking.  Students who obtain credit for MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, or SCIE 001 cannot in the same year or in later years obtain credit for MATH 230. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> Principles of Mathematics 11.<br> 
+	</dd>
+
+	<dt><a name="253"></a>MATH 253 (3)  <b>Multivariable Calculus</b></dt>
+	<dd>Partial and directional derivatives; maxima and minima; Lagrange multipliers and second derivative test; multiple integrals and applications. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> 
+	</dd>
+
+	<dt><a name="254"></a>MATH 254 (3)  <b>Multivariable and Vector Calculus for Mechanical Engineering</b></dt>
+	<dd>Partial differentiation, extreme values, multiple integration, vector fields, line and surface integrals, the divergence and Stokes' theorems; applications to fluid mechanics: buoyancy, hydrostatic force, pipe flow, drag; applications to thermodynamics: work, entropy, heat transfer; numerical methods. Emphasis on mechanical engineering applications. [3-0-1*]<br > <em>Prerequisite:</em> MATH 101 and one of MATH 152, MATH 221, MATH 223.<br> <em>Corequisite:</em> All of MECH 222, MECH 225.<br> 
+	</dd>
+
+	<dt><a name="255"></a>MATH 255 (3)  <b>Ordinary Differential Equations</b></dt>
+	<dd>Review of linear systems; nonlinear equations and applications; phase plane analysis; Laplace transforms; numerical methods. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.<br> <em>Corequisite:</em> One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.<br> 
+	</dd>
+
+	<dt><a name="256"></a>MATH 256 (3)  <b>Differential Equations</b></dt>
+	<dd>Linear ordinary differential equations, Laplace transforms, Fourier series and separation of variables for linear partial differential equations. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.<br> <em>Corequisite:</em> One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 263.<br> 
+	</dd>
+
+	<dt><a name="257"></a>MATH 257 (3)  <b>Partial Differential Equations</b></dt>
+	<dd>Introduction to partial differential equations; Fourier series; the heat, wave and potential equations; boundary-value problems; numerical methods. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 215, MATH 255, MATH 256, MATH 258.<br> 
+	</dd>
+
+	<dt><a name="258"></a>MATH 258 (3)  <b>Differential Equations for Mechanical Engineering</b></dt>
+	<dd>First-order equations; linear equations; linear systems; Laplace transforms; trajectory analysis of plane nonlinear systems; translational and rotational vibrations; applications to RLC circuit analysis; numerical and graphical methods. Emphasis on mechanical engineering applications. [3-0-1*]<br > <em>Prerequisite:</em> MATH 101 and one of MATH 152, MATH 221, MATH 223.<br> <em>Corequisite:</em> All of MECH 221, MECH 224.<br> 
+	</dd>
+
+	<dt><a name="264"></a>MATH 264 (1)  <b>Vector Calculus for Electrical Engineering</b></dt>
+	<dd>Divergence, gradient, curl, theorems of Gauss and Stokes. Applications to Electrostatics and Magnetostatics. MATH 264 content is strongly coupled to BMEG 220 and ELEC 211 with topics and student evaluations weighted accordingly. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.<br> <em>Corequisite:</em> One of BMEG 220, ELEC 211.<br> 
+	</dd>
+
+	<dt><a name="300"></a>MATH 300 (3)  <b>Introduction to Complex Variables</b></dt>
+	<dd>Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles and residues. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.<br> <em>Corequisite:</em> One of MATH 217, MATH 227, MATH 254, MATH 317.<br> 
+	</dd>
+
+	<dt><a name="301"></a>MATH 301 (3)  <b>Applied Analysis</b></dt>
+	<dd>Integrals involving multi-valued functions, conformal mapping and applications, analytic continuation, Laplace and Fourier transforms. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 300, MATH 305 and one of MATH 215, MATH 255, MATH 256, MATH 258.<br> <em>Corequisite:</em> One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.<br> 
+	</dd>
+
+	<dt><a name="302"></a>MATH 302 (3)  <b>Introduction to Probability</b></dt>
+	<dd>Basic notions of probability, random variables, expectation and conditional expectation, limit theorems.   Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.<br> <em>Equivalency:</em> STAT 302.
+	</dd>
+
+	<dt><a name="303"></a>MATH 303 (3)  <b>Introduction to Stochastic Processes</b></dt>
+	<dd>Discrete-time Markov chains, Poisson processes, continuous time Markov chains, renewal theory. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 302, STAT 302.<br> 
+	</dd>
+
+	<dt><a name="305"></a>MATH 305 (3)  <b>Applied Complex Analysis</b></dt>
+	<dd>Functions of a complex variable, Cauchy-Riemann equations, contour integration, Laurent series, residues, integrals of multi-valued functions, Fourier transforms. See Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and one of MATH 215, MATH 255, MATH 256, MATH 258.<br> <em>Corequisite:</em> One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.<br> 
+	</dd>
+
+	<dt><a name="307"></a>MATH 307 (3)  <b>Applied Linear Algebra</b></dt>
+	<dd>Applications of linear algebra to problems in science and engineering; use of computer algebra systems for solving problems in linear algebra. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.<br> 
+	</dd>
+
+	<dt><a name="308"></a>MATH 308 (3)  <b>Euclidean Geometry</b></dt>
+	<dd>Classical plane geometry, solid geometry, spherical trigonometry, polyhedra, linear and affine transformations. Linear algebra proofs are used. It is suggested that MATH 307 be taken concurrently. [3-0-0]<br > <em>Prerequisite:</em> Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.<br> 
+	</dd>
+
+	<dt><a name="309"></a>MATH 309 (3)  <b>Topics in Geometry</b></dt>
+	<dd>Topics chosen by the instructor. These may include conic sections, projective configuration, convexity, non-Euclidean geometries, fractal geometry, combinatorial problems of points in the plane. [3-0-0]<br > <em>Prerequisite:</em> Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.<br> 
+	</dd>
+
+	<dt><a name="310"></a>MATH 310 (3)  <b>Abstract Linear Algebra</b></dt>
+	<dd>Linear spaces, duality, linear mappings, matrices, determinant and trace, spectral theory, Euclidean structure. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121.<br> 
+	</dd>
+
+	<dt><a name="312"></a>MATH 312 (3)  <b>Introduction to Number Theory</b></dt>
+	<dd>Euclidean algorithm, congruences, Fermat's theorem, applications. Some diophantine equations. Distribution of the prime numbers. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. <br > <em>Prerequisite:</em> One of MATH 220, MATH 223, MATH 226, CPSC 121 and 9 additional credits of mathematics courses.<br> 
+	</dd>
+
+	<dt><a name="313"></a>MATH 313 (3)  <b>Topics in Number Theory</b></dt>
+	<dd>Topics chosen by the instructor. These might include: division algorithms, group theory, continued fractions, primality testing, factoring.  Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> MATH 312.<br> 
+	</dd>
+
+	<dt><a name="316"></a>MATH 316 (3)  <b>Elementary Differential Equations II</b></dt>
+	<dd>Power series methods (ordinary and regular singular points, Bessel's equation); boundary value problems and separation of variables (Fourier series and other orthogonal series), applications to the vibrating string, heat flow, potentials. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 215, MATH 255, MATH 256, MATH 258.<br> 
+	</dd>
+
+	<dt><a name="317"></a>MATH 317 (3)  <b>Calculus IV</b></dt>
+	<dd>Parametrizations, inverse and implicit functions, integrals with respect to length and area; grad, div, and curl, theorems of Green, Gauss, and Stokes. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 200, MATH 226, MATH 253. One of MATH 152, MATH 221, MATH 223 is recommended.<br> 
+	</dd>
+
+	<dt><a name="318"></a>MATH 318 (3)  <b>Probability with Physical Applications</b></dt>
+	<dd>Random variables, discrete and continuous distributions. Random walk, Markov chains, Monte Carlo methods. Characteristic functions, limit laws. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 152, MATH 221, MATH 223 and one of MATH 215, MATH 255, MATH 256, MATH 258.<br> <em>Corequisite:</em> One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.<br> 
+	</dd>
+
+	<dt><a name="320"></a>MATH 320 (3)  <b>Real Variables I</b></dt>
+	<dd>The real number system; real Euclidean n-space; open, closed, compact, and connected sets; Bolzano-Weierstrass theorem; sequences and series. Continuity and uniform continuity. Differentiability and mean-value theorems. [3-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and a score of 80% or higher in MATH 220.<br> 
+	</dd>
+
+	<dt><a name="321"></a>MATH 321 (3)  <b>Real Variables II</b></dt>
+	<dd>The Riemann or Riemann-Stieltjes integrals. Sequences and series of functions, uniform convergence. Approximation of continuous functions by polynomials. Fourier series. Functions from R<sup>m</sup> to R<sup>n</sup>, inverse and implicit function theorems. [3-0-0]<br > <em>Prerequisite:</em> MATH 320.<br> 
+	</dd>
+
+	<dt><a name="322"></a>MATH 322 (3)  <b>Introduction to Group Theory</b></dt>
+	<dd>Groups, cosets, homomorphisms, group actions, p-groups, Sylow theorems, composition series, finitely generated Abelian groups. [3-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 68% or higher in one of MATH 223, MATH 310 or (b) one of MATH 152, MATH 221, MATH 223 and a score of 80% or higher in MATH 220.<br> 
+	</dd>
+
+	<dt><a name="323"></a>MATH 323 (3)  <b>Introduction to Rings and Modules</b></dt>
+	<dd>Rings, ideals, unique factorization, Euclidean rings, fields, polynomial rings, modules; structure theory of modules over a principal ideal domain. [3-0-0]<br > <em>Prerequisite:</em> MATH 322.<br> 
+	</dd>
+
+	<dt><a name="335"></a>MATH 335 (4)  <b>Introduction to Mathematics</b></dt>
+	<dd>Intensive course with required tutorial. Combinatorics, probability, geometry and elementary number theory. Not for credit in the Faculty of Science. Students who obtain credit at UBC for any other mathematics course cannot in the same or later years obtain credit for MATH 335. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-2]<br > 
+	</dd>
+
+	<dt><a name="340"></a>MATH 340 (3)  <b>Introduction to Linear Programming</b></dt>
+	<dd>Linear programming problems, dual problems, the simplex algorithm, solution of primal and dual problems, sensitivity analysis. Additional topics chosen from: Karmarkar's algorithm, non-linear programming, game theory, applications. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 152, MATH 221, MATH 223.<br> 
+	</dd>
+
+	<dt><a name="341"></a>MATH 341 (3)  <b>Introduction to Discrete Mathematics</b></dt>
+	<dd>Introduction to ideas and methods of discrete mathematics and their application. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 220, MATH 223, MATH 226, CPSC 121.<br> 
+	</dd>
+
+	<dt><a name="342"></a>MATH 342 (3)  <b>Algebra and Coding Theory</b></dt>
+	<dd>Error-correcting codes via abstract and linear algebra.  Emphasis on proofs and computation.  Finite fields, Hamming distance and error-correction, upper and lower bounds on the size of a code, linear codes, groups and cosets, encoding and decoding schemes. [3-0-0]<br > <em>Prerequisite:</em> Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.<br> 
+	</dd>
+
+	<dt><a name="344"></a>MATH 344 (3)  <b>Mathematical Game Theory</b></dt>
+	<dd>Introduction to mathematical game theory and its applications. [3-0-0]<br > <em>Prerequisite:</em> Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.<br> 
+	</dd>
+
+	<dt><a name="345"></a>MATH 345 (3)  <b>Applied Nonlinear Dynamics and Chaos</b></dt>
+	<dd>Phase plane methods, bifurcation and stability theory, limit-cycle behavior and chaos for nonlinear differential equations with applications to the sciences.  Assignments involve the use of computers. [3-1-0]<br > <em>Prerequisite:</em> A score of 68% or higher in one of MATH 215, MATH 255, MATH 256, MATH 258.<br> 
+	</dd>
+
+	<dt><a name="358"></a>MATH 358 (3)  <b>Engineering Analysis</b></dt>
+	<dd>Fourier series; auto- and cross-correlation; power spectra;  discrete Fourier transform; boundary-value problems; numerical methods; partial differential equations; heat, wave, Laplace, Poisson, and wave equations.  Applications to mechanical engineering and practical computing applications emphasized.  Credit will be granted for only one of MECH 358 or MATH 358. [3-2*-0]<br > <em>Prerequisite:</em> All of MECH 224, MECH 225.<br> <em>Equivalency:</em> MECH 358.
+	</dd>
+
+	<dt><a name="360"></a>MATH 360 (3)  <b>Mathematical Modelling in Science</b></dt>
+	<dd>Principles of model selection and basic modelling techniques in biology, earth science, chemistry and physics. Optimization, dynamical systems and stochastic processes. Preference will be given to Combined Major in Science students, or to students in Year 3 or higher. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.<br> 
+	</dd>
+
+	<dt><a name="361"></a>MATH 361 (3)  <b>Introduction to Mathematical Biology</b></dt>
+	<dd>Mathematical modelling of basic biological processes in ecology, physiology, neuroscience and genetics. Dynamic behavior of difference equations, differential equations, and partial differential equations, explained with reference to concrete biological examples. [3-0-0]<br > <em>Prerequisite:</em> One of BIOL 301, MATH 215, MATH 255, MATH 256, MATH 258.<br> 
+	</dd>
+
+	<dt><a name="398"></a>MATH 398 (3)  <b>Co-operative Work Placement I</b></dt>
+	<dd>Approved and supervised technical work experience involving mathematics in industry for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="399"></a>MATH 399 (3)  <b>Co-operative Work Placement II</b></dt>
+	<dd>Approved and supervised technical work experience involving mathematics in industry for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> MATH 398.<br> 
+	</dd>
+
+	<dt><a name="400"></a>MATH 400 (3)  <b>Applied Partial Differential Equations</b></dt>
+	<dd>Separation of variables, first order equations, Sturm-Liouville theory, integral transform methods. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 300, MATH 305 and one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.<br> 
+	</dd>
+
+	<dt><a name="401"></a>MATH 401 (3)  <b>Green's Functions and Variational Methods</b></dt>
+	<dd>Green's functions for partial differential equations. Calculus of variations. Eigenfunction expansions. Rayleigh-Ritz and finite element methods.  See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.<br> 
+	</dd>
+
+	<dt><a name="402"></a>MATH 402 (3)  <b>Calculus of Variations</b></dt>
+	<dd>Classical variational problems; necessary conditions of Euler, Weierstrass, Legendre, and Jacobi; Erdmann corner conditions, transversality, convex Lagrangians, fields of extremals, sufficient conditions for optimality, numerical methods; applications to classical mechanics, engineering and economics. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in one of MATH 301, MATH 320.<br> 
+	</dd>
+
+	<dt><a name="403"></a>MATH 403 (3)  <b>Stabilization and Optimal Control of Dynamical Systems</b></dt>
+	<dd>Dynamical systems; stability by Liapunov's direct method; controllability and eigenvalue assignment for autonomous linear systems; linear-quadratic regulator, time optimal control, Pontryagin maximum principle, dynamic programming; applications in engineering, economics and resource management. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in one of MATH 301, MATH 320. MATH 402 is recommended.<br> 
+	</dd>
+
+	<dt><a name="404"></a>MATH 404 (3)  <b>Harmonic Analysis I</b></dt>
+	<dd>Harmonic analysis on Euclidean spaces, with applications to number theory, partial differential equations and geometric measure theory. [3-0-0]<br > <em>Prerequisite:</em> MATH 300 and a score of 68% or higher in MATH 321.<br> <em>Corequisite:</em> MATH 420.<br> 
+	</dd>
+
+	<dt><a name="405"></a>MATH 405 (3)  <b>Numerical Methods for Differential Equations</b></dt>
+	<dd>Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.<br> 
+	</dd>
+
+	<dt><a name="406"></a>MATH 406 (3)  <b>Variational and Approximate Methods in Applied Mathematics</b></dt>
+	<dd>Variational and Green's function methods for ordinary and partial differential equations, introduction to finite difference, finite element and boundary element methods.  See Faculty of Science Credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414 [3-0-0]<br > <em>Prerequisite:</em> One of MATH 307, CPSC 302 and either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.<br> 
+	</dd>
+
+	<dt><a name="412"></a>MATH 412 (3)  <b>Advanced Linear Algebra</b></dt>
+	<dd>Topics include decompositions of linear operators, multi linear algebra, bilinear forms, metric spaces. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in all of MATH 320, MATH 322.<br> 
+	</dd>
+
+	<dt><a name="414"></a>MATH 414 (3)  <b>Mathematical Demonstrations</b></dt>
+	<dd>Students will prepare material illustrating ideas and applications of mathematics and present it to audiences outside the University. Intended for third or fourth year Mathematics students and Math/Science Education students. [2-0-0; 1-0-0] or [3-0-0]<br > <em>Prerequisite:</em> 24 credits in MATH.<br> 
+	</dd>
+
+	<dt><a name="418"></a>MATH 418 (3)  <b>Probability</b></dt>
+	<dd>Probability spaces, random variables, distributions, expectation, conditional probabilities, convergence of random variables, generating and characteristic functions, weak and strong laws of large numbers, central limit theorem. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in MATH 321.<br> 
+	</dd>
+
+	<dt><a name="419"></a>MATH 419 (3)  <b>Stochastic Processes</b></dt>
+	<dd>Random walks, Markov chains, branching processes, Poisson processes, continuous time Markov chains, martingales, Brownian motion. [3-0-0]<br > <em>Prerequisite:</em> MATH 418.<br> 
+	</dd>
+
+	<dt><a name="420"></a>MATH 420 (3)  <b>Real Analysis I</b></dt>
+	<dd>Sigma-algebras, Lebesgue measure, Borel measures, measurable functions, integration, convergence theorems, L<sup>p</sup> spaces, Holder and Minkowski inequalities, Lebesgue and/or Radon-Nikodym differentiation. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in MATH 321.<br> 
+	</dd>
+
+	<dt><a name="421"></a>MATH 421 (3)  <b>Real Analysis II</b></dt>
+	<dd>Banach spaces, linear operators, bounded and compact operators, strong, weak, and weak* topology.  Hahn-Banach, open mapping, and closed graph theorems.  Hilbert spaces, symmetric and self-adjoint operators, spectral theory for bounded operators. [3-0-0]<br > <em>Prerequisite:</em> MATH 420.<br> 
+	</dd>
+
+	<dt><a name="422"></a>MATH 422 (3)  <b>Fields and Galois Theory</b></dt>
+	<dd>Field extensions, the Galois correspondence, finite fields, insolvability in radicals, ruler and compass constructions, additional topics chosen by instructor. [3-0-0]<br > <em>Prerequisite:</em> MATH 323.<br> 
+	</dd>
+
+	<dt><a name="423"></a>MATH 423 (3)  <b>Commutative Algebra</b></dt>
+	<dd>Commutative algebra; homological algebra or representation theory of finite groups. [3-0-0]<br > <em>Prerequisite:</em> MATH 323 and a score of 68% or higher in one of MATH 412, MATH 422.<br> 
+	</dd>
+
+	<dt><a name="424"></a>MATH 424 (3)  <b>Classical Differential Geometry</b></dt>
+	<dd>The differential geometry of curves and surfaces in three-dimensional Euclidean space. Mean curvature and Gaussian curvature. Geodesics. Gauss's Theorema Egregium. [3-0-0]<br > <em>Prerequisite:</em> Either (a) a score of 68% or higher in MATH 223 or (b) a score of 80% or higher in one of MATH 152, MATH 221;  and either (a) a score of 68% or higher in MATH 227 or (b) a score of 80% or higher in one of MATH 217, MATH 254, MATH 264, MATH 317.<br> 
+	</dd>
+
+	<dt><a name="425"></a>MATH 425 (3)  <b>Introduction to Modern Differential Geometry</b></dt>
+	<dd>Riemannian manifolds, tensors and differential forms, curvature and geodesics. [3-0-0]<br > <em>Prerequisite:</em> MATH 424.<br> 
+	</dd>
+
+	<dt><a name="426"></a>MATH 426 (3)  <b>Introduction to Topology</b></dt>
+	<dd>General topology, combinatorial topology, fundamental group and covering spaces, topics chosen by the instructor. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in all of MATH 321, MATH 322.<br> 
+	</dd>
+
+	<dt><a name="427"></a>MATH 427 (3)  <b>Topics in Topology</b></dt>
+	<dd>Homology theory, homotopy theory, manifolds, and other topics chosen by the instructor. [3-0-0]<br > <em>Prerequisite:</em> MATH 426.<br> 
+	</dd>
+
+	<dt><a name="428"></a>MATH 428 (3)  <b>Mathematical Classical Mechanics I</b></dt>
+	<dd>Newton's equation, conservation laws, the Euler-Lagrange equation; Hamilton's principle of least action, Hamilton's equations, Lagrangian mechanics on manifolds. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 215, MATH 255, MATH 256, MATH 258 and one of PHYS 216, PHYS 306, ENPH 270.<br> <em>Corequisite:</em> MATH 320.<br> 
+	</dd>
+
+	<dt><a name="430"></a>MATH 430 (2-6) c <b>Special Topics in Analysis</b></dt>
+	<dd>The student should consult the Mathematics Department for the particular topics offered in a given year. [3-0-0]<br > 
+	</dd>
+
+	<dt><a name="432"></a>MATH 432 (2-6) c <b>Special Topics in Algebra</b></dt>
+	<dd>The student should consult the Mathematics Department for the particular topics offered in a given year. [3-0-0]<br > 
+	</dd>
+
+	<dt><a name="437"></a>MATH 437 (3)  <b>Number Theory</b></dt>
+	<dd>Divisibility, congruences, Diophantine equations, arithmetic functions, quadratic reciprocity, advanced topics. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]<br > <em>Corequisite:</em> One of MATH 320, MATH 322.<br> 
+	</dd>
+
+	<dt><a name="440"></a>MATH 440 (3)  <b>Complex Analysis</b></dt>
+	<dd>The residue theorem, the argument principle, conformal mapping, the maximum modulus principle, harmonic functions, representation of functions by integrals, series, and products. Other topics at the discretion of the instructor. [3-0-0]<br > <em>Prerequisite:</em> MATH 300 and a score of 68% or higher in MATH 320.<br> 
+	</dd>
+
+	<dt><a name="441"></a>MATH 441 (3)  <b>Mathematical Modelling: Discrete Optimization Problems</b></dt>
+	<dd>Formulation of real-world optimization problems using techniques such as linear programming, network flows, integer programming, dynamic programming. Solution by appropriate software. [3-0-0]<br > <em>Prerequisite:</em> MATH 340.<br> 
+	</dd>
+
+	<dt><a name="442"></a>MATH 442 (3)  <b>Graphs and Networks</b></dt>
+	<dd>Graph theory, emphasizing trees, tree growing algorithms, and proof techniques. Other topics chosen from shortest paths, maximum flows, minimum cost flows, matchings, and graph colouring. [3-0-0]<br > <em>Prerequisite:</em> 3rd year standing and one of MATH 220, MATH 223, MATH 226 or CPSC 221.<br> 
+	</dd>
+
+	<dt><a name="443"></a>MATH 443 (3)  <b>Graph Theory</b></dt>
+	<dd>Introductory course in mostly non-algorithmic topics including: planarity and Kuratowski's theorem, graph colouring, graph minors, random graphs, cycles in graphs, Ramsey theory, extremal graph theory. Proofs emphasized. Intended for Honours students. [3-0-0]<br > <em>Prerequisite:</em> A score of 68% or higher in one of MATH 220, MATH 223, MATH 226, CPSC 121. And 6 credits of MATH numbered 300 or above.<br> 
+	</dd>
+
+	<dt><a name="444"></a>MATH 444 (3)  <b>Mathematical Research and Writing</b></dt>
+	<dd>Current research topics in pure and applied mathematics are explored at the undergraduate level.  Technical communication and research skills are developed. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 220, MATH 226 and 6 credits of MATH courses numbered 300 or higher.<br> 
+	</dd>
+
+	<dt><a name="446"></a>MATH 446 (3)  <b>Topics in the History of Mathematics I</b></dt>
+	<dd>Historical development of concepts and techniques in areas chosen from Geometry, Number Theory, Algebra, Calculus, Probability, Analysis. The focus is on historically significant writings of important contributors and on famous problems of Mathematics. [3-0-0]<br > <em>Prerequisite:</em> 27 credits of MATH.<br> 
+	</dd>
+
+	<dt><a name="448"></a>MATH 448 (3)  <b>Directed Studies in Mathematics</b></dt>
+	<dd>Introduction to the methods of mathematical research through an exploration of a mathematical topic under the supervision of a faculty member.  Written report required. [3-0-0]<br > <em>Prerequisite:</em> Third- or fourth-year standing and permission of the Department Head.<br> 
+	</dd>
+
+	<dt><a name="449"></a>MATH 449 (2-6) c <b>Honours Reading</b></dt>
+	<dd>Independent reading by Honours students in Mathematics under the direction of a faculty member. Written report required. <br > <em>Prerequisite:</em> Permission of the Department Head<br> 
+	</dd>
+
+	<dt><a name="450"></a>MATH 450 (3)  <b>Asymptotic and Perturbation Methods</b></dt>
+	<dd>Asymptotic expansions. Asymptotic evaluation of integrals; WKBJ methods. Regular and singular expansions. Boundary layer theory; matched asymptotic expansions. Multiple scale techniques. [3-0-0]<br > <em>Prerequisite:</em> All of MATH 301, MATH 400.<br> 
+	</dd>
+
+	<dt><a name="462"></a>MATH 462 (3)  <b>Projects in Mathematical Biology</b></dt>
+	<dd>Development and analysis of mathematical models for complex systems in ecology, evolution, cell biology, neurophysiology, and other biological and medical disciplines. [3-0-0]<br > <em>Prerequisite:</em> One of MATH 361, MATH 345.<br> 
+	</dd>
+
+	<dt><a name="498"></a>MATH 498 (3)  <b>Co-operative Work Placement III</b></dt>
+	<dd>Approved and supervised technical work experience involving mathematics in industry for a minimum of 3 1/2 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> MATH 399.<br> 
+	</dd>
+
+	<dt><a name="499"></a>MATH 499 (3)  <b>Co-operative Work Placement IV</b></dt>
+	<dd>Approved and supervised technical work experience involving mathematics in industry for a minimum of 3 1/2 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> MATH 498.<br> 
+	</dd>
+
+</dl> 
+
+Source acknowlegement: www.calendar.ubc.ca/vancouver/courses.cfm?page=code&code=MATH

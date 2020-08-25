@@ -1,0 +1,381 @@
+<dl class="double">
+
+	<dt><a name="101"></a>ECON 101 (3)  <b>Principles of Microeconomics</b></dt>
+	<dd>Elements of theory and of Canadian policy and institutions concerning the economics of markets and market behaviour, prices and costs, exchange and trade, competition and monopoly, distribution of income. <br > 
+	</dd>
+
+	<dt><a name="102"></a>ECON 102 (3)  <b>Principles of Macroeconomics</b></dt>
+	<dd>Elements of theory and of Canadian policy and institutions concerning the economics of growth and business cycles, national income accounting, interest and exchange rates, money and banking, the balance of trade. <br > 
+	</dd>
+
+	<dt><a name="204"></a>ECON 204 (6)  <b>Intermediate Microeconomic Analysis</b></dt>
+	<dd>Mathematical and graphical models of individual, household, and firm behavior with applications to issues in international economics. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 204, ECON 301, ECON 304, ECON 315, COMM 295 or FRE 295. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, MATH 110 or MATH 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="210"></a>ECON 210 (3)  <b>Microeconomic Policy</b></dt>
+	<dd>A survey of policy issues, such as regulation, taxation, environmental and resource policy, health care, education and income distribution.  May not be taken for credit by students with fourth-year standing. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="211"></a>ECON 211 (3)  <b>Macroeconomic Policy</b></dt>
+	<dd>A survey of policy issues, such as the costs of inflation and unemployment, monetary and fiscal policy, the effects of government debt and exchange rate policy.  May not be taken for credit by students with fourth-year standing. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="221"></a>ECON 221 (3)  <b>Introduction to Strategic Thinking</b></dt>
+	<dd>An introduction to how people interact in strategic situations drawn from political science, history, psychology, law, biology, military history, economics, business, and anthropology. The focus will be on developing intuition.  May not be taken for credit by students with fourth-year standing. Credit will be granted for only one of ECON 221 or ISCI 344. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="226"></a>ECON 226 (3)  <b>Making Sense of Economic Data</b></dt>
+	<dd>Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools.  May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent). <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="234"></a>ECON 234 (3)  <b>Wealth and Poverty of Nations</b></dt>
+	<dd>Historical approaches to long-run economic growth; international comparisons of income growth and inequality; colonialism; evolution of world capital markets; human migrations; rise of world trading empires; instability in the international economy.  Credit will be granted for only one of ECON 234 or former ECON 334 (6).  May not be taken for credit by students with fourth-year standing. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="255"></a>ECON 255 (3)  <b>Understanding Globalization</b></dt>
+	<dd>Social and economic implications for both rich and poor countries of lowered barriers to the international flows of information, capital, labour and goods.  May not be taken for credit by students with fourth-year standing. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="301"></a>ECON 301 (3)  <b>Intermediate Microeconomic Analysis I</b></dt>
+	<dd>Consumer behaviour, producer theory, exchange, monopoly, oligopoly, externalities, public goods, general equilibrium and welfare economics. Credit will be granted for only one of ECON 204, ECON 301, ECON 304, ECON 315, COMM 295 or FRE 295. <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="302"></a>ECON 302 (3)  <b>Intermediate Macroeconomic Analysis I</b></dt>
+	<dd>Income and employment theory, monetary theory, the open economy, economic fluctuations and growth. Credit will be granted for only one of ECON 302, ECON 305, or ECON 309. <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="303"></a>ECON 303 (3)  <b>Intermediate Microeconomics II</b></dt>
+	<dd>Risk and uncertainty, some concepts in game theory, adverse selection, moral hazard, bargaining, auctions. Credit will be granted for only one of ECON 303 or ECON 306. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304.<br> 
+	</dd>
+
+	<dt><a name="304"></a>ECON 304 (3)  <b>Honours Intermediate Microeconomic Analysis I</b></dt>
+	<dd>Consumer behaviour, producer theory, exchange, monopoly, oligopoly, externalities, public goods, general equilibrium and welfare economics. Credit will be granted for only one of ECON 204, ECON 301, ECON 304, ECON 315, COMM 295 or FRE 295. <br > <em>Prerequisite:</em> A score of 68% or higher in one of ECON 101, ECON 310 and a score of 68% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="305"></a>ECON 305 (3)  <b>Honours Intermediate Macroeconomic Analysis I</b></dt>
+	<dd>Income and employment theory, monetary theory, the open economy, economic fluctuations and growth. Credit will be granted for only one of ECON 302, ECON 305, or ECON 309. <br > <em>Prerequisite:</em> A score of 68% or higher in one of ECON 101, ECON 310 and a score of 68% or higher in one of ECON 102, ECON 311 and a score of 68% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="306"></a>ECON 306 (3)  <b>Honours Intermediate Microeconomics II</b></dt>
+	<dd>Risk and uncertainty, some concepts in game theory, adverse selection, moral hazard, bargaining, auctions. Credit will be granted for only one of ECON 303 or ECON 306. <br > <em>Prerequisite:</em> A score of 68% or higher in ECON 304. Permission of the School is also acceptable.<br> 
+	</dd>
+
+	<dt><a name="307"></a>ECON 307 (3)  <b>Honours Intermediate Macroeconomics II</b></dt>
+	<dd>Theories of economic growth and the business cycle. Intended primarily for prospective honours and other qualified students. <br > <em>Prerequisite:</em> A score of 68% or higher in ECON 305. Or permission of the School.<br> 
+	</dd>
+
+	<dt><a name="308"></a>ECON 308 (6)  <b>Intermediate Microeconomic Analysis</b></dt>
+	<dd>Mathematical and graphical models of individual, household, and firm behavior with applications to issues in international economics. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 301, ECON 304 or ECON 308. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="309"></a>ECON 309 (3)  <b>Intermediate Open Economy Macroeconomics</b></dt>
+	<dd>The aggregate economy with emphasis on macroeconomic policy and international economic growth, money and inflation, unemployment, business cycles, and macroeconomic stabilization policy under fixed and flexible exchange rates. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 302, ECON 305 or ECON 309. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="310"></a>ECON 310 (3)  <b>Principles of Microeconomics</b></dt>
+	<dd>The scope of this course is approximately the same as that of ECON101. The course is intended for upper-level students only. Credit will be granted for only one of ECON 310 or ECON 101. <br > <em>Prerequisite:</em> Third-year, fourth-year, or graduate standing.<br> 
+	</dd>
+
+	<dt><a name="311"></a>ECON 311 (3)  <b>Principles of Macroeconomics</b></dt>
+	<dd>The scope of this course is approximately the same as that of ECON 102. The course is intended for upper-level students only. Credit will be granted for only one of ECON 311 or ECON 102. <br > <em>Prerequisite:</em> Third-year, fourth-year or graduate standing.<br> 
+	</dd>
+
+	<dt><a name="312"></a>ECON 312 (3)  <b>Political Economy of Capitalism</b></dt>
+	<dd>An intellectual history of the evolution of the capitalist system and its institutions; a selection of defences and criticisms of capitalism and its alternatives in the writings of leading social and political philosophers from the 18th to the 20th centuries. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="313"></a>ECON 313 (3)  <b>Marxist Economics</b></dt>
+	<dd>Marxist critiques of capitalist systems and Marxian alternatives. The origin of exploitation; feudalism and capitalism; exploitation and profits; the morality of exploitation; the emergence of class; historical materialism; Marxist theories of imperialism; and public ownership of the means of production. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="315"></a>ECON 315 (3)  <b>Intermediate Microeconomics I</b></dt>
+	<dd>Consumer behaviour, producer theory, exchange, monopoly, oligopoly, externalities, public goods, general equilibrium and welfare economics. Registration restricted to students in the Bachelor of International Economics Program.  Credit will be granted for only one of ECON 315 and ECON 204, ECON 301, ECON 304, ECON 308, COMM 295, FRE 295. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="316"></a>ECON 316 (3)  <b>Intermediate Microeconomics II</b></dt>
+	<dd>Advanced topics in intermediate microeconomics: risk and uncertainty, some concepts in game theory, adverse selection, moral hazard, bargaining, auctions. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 316, ECON 303, or ECON 308. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="317"></a>ECON 317 (3)  <b>Poverty and Inequality</b></dt>
+	<dd>Economic inequality in Canada and other countries; measurement and causes. Inequality in the distribution of wealth; redistribution of income and wealth; notions of distributive justice. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="318"></a>ECON 318 (3)  <b>History and Philosophy of Economics from Aristotle to Adam Smith</b></dt>
+	<dd>The development of economic thought from Aristotle to Adam Smith, focusing on the conceptual foundations of economics, particularly the problems of value, distribution, and economic growth. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> <em>Equivalency:</em> PHIL 362.
+	</dd>
+
+	<dt><a name="319"></a>ECON 319 (3)  <b>History and Philosophy of Economics from Ricardo to Keynes</b></dt>
+	<dd>The development of economic thought from David Ricardo up to the present including such figures as Malthus, Mill, Jevons, and Keynes, focusing on the conceptual foundations of economics, particularly the problems of value, distribution and growth. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> <em>Equivalency:</em> PHIL 363.
+	</dd>
+
+	<dt><a name="320"></a>ECON 320 (3)  <b>Introduction to Mathematical Economics</b></dt>
+	<dd>Application of single and multivariable calculus to economics. Includes comparative static analysis of household and firm behaviour as well as simple dynamic models. ECON 320 cannot be counted as satisfying ECON requirements for the Combined Major in Economics/Mathematics. <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="323"></a>ECON 323 (3)  <b>Quantitative Economic Modelling with Data Science Applications</b></dt>
+	<dd>Computational tools used in modern economics. Including application of data science in economics; visualization and manipulation of economic data; solving and simulating dynamic economic models. <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121 and MATH 221. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="325"></a>ECON 325 (3)  <b>Introduction to Empirical Economics</b></dt>
+	<dd>Essentials of probability and statistics for applied work in economics. Topics include descriptive statistics, probability, estimation, hypothesis testing, and analysis of variance. Please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414 <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="326"></a>ECON 326 (3)  <b>Methods of Empirical Research in Economics</b></dt>
+	<dd>Techniques of empirical economic research. Topics include simple and multiple regression, time series analysis, and simultaneous equation estimation. Students will be required to undertake applied work. Please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. <br > <em>Prerequisite:</em> One of ECON 325, ECON 327.<br> 
+	</dd>
+
+	<dt><a name="327"></a>ECON 327 (3)  <b>Introduction to Empirical Methods</b></dt>
+	<dd>Basic tools for the statistical analysis of economic data. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 325, ECON 327,or STAT 200; please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121. MATH 104, 110 or 184 recommended. MATH 105 recommended.<br> 
+	</dd>
+
+	<dt><a name="328"></a>ECON 328 (3)  <b>Methods of Empirical Research</b></dt>
+	<dd>Empirical tools used in applied research, with emphasis on the linear regression model. Registration restricted to students in the Bachelor of International Economics program. Credit will be granted for only one of ECON 326, ECON 328, or STAT 306; please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 325, ECON 327.<br> 
+	</dd>
+
+	<dt><a name="334"></a>ECON 334 (3)  <b>Economic History of Modern Europe</b></dt>
+	<dd>Background, causes and effects of economic change in Europe from the 18th century to recent times. Evolution of social and economic institutions; analysis of growth, structural change, the distribution of income, and the spread of industrialization. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="335"></a>ECON 335 (3)  <b>Fertility, Families and Human Migration</b></dt>
+	<dd>Traditional fertility and mortality patterns, demographic transition, catastrophes, well-being and nutrition, international and internal migration, epidemics and growth spurts. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="336"></a>ECON 336 (3)  <b>Economic History of Canada</b></dt>
+	<dd>The growth of the Canadian economy in relation to development of natural resources, changing markets, industrialism, communications, and technology. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="337"></a>ECON 337 (3)  <b>Economic History of the United States</b></dt>
+	<dd>The growth of the United States from the Colonial Era to the present: British colonialism, development of slave-based agriculture, the western expansion, the 'American system' of manufacturing, cyclical instability and depression, and the distribution of income. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="339"></a>ECON 339 (3)  <b>Economics of Technological Change</b></dt>
+	<dd>Application of economic analysis to technological change; the impact of technological change on the growth and distribution of income; economic influences on the invention and diffusion of technology; the interaction between technology, work, skills, and education; public policy toward technological change. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="341"></a>ECON 341 (3)  <b>Economic Development of Asia</b></dt>
+	<dd>Economic development under colonialism, the colonial legacy, population, trade and development, land reform, the Green Revolution, industrialization strategies, distribution of the gains from development. Each topic is discussed in the context of an Asian country. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="342"></a>ECON 342 (3)  <b>The Economy of China since 1949</b></dt>
+	<dd>The Maoist strategy of development, the commune system and rural development, the pace and pattern of industrialization, management and planning, incentive policy, economic lessons from China. Students who wish to contrast different approaches to development may find it useful to take ECON 341 and 342 as a sequence. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="343"></a>ECON 343 (3)  <b>The Economic Development of Modern Japan</b></dt>
+	<dd>An economic analysis of the growth and structural changes of the Japanese economy from the Meiji Restoration to the Second World War. Sources of growth, the development of new economic institutions, agricultural development, international trade and early industrialization, the emergence of a dual economic structure, war preparation, and the drive towards heavy industrialization. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="345"></a>ECON 345 (3)  <b>Money and Banking</b></dt>
+	<dd>Financial markets and financial institutions in theory and practice; structure and development of the Canadian financial system; development and theory of the regulation of the financial system; process of monetary control; theory and history of central banking and monetary policy. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="350"></a>ECON 350 (3)  <b>Public Finance Policy Topics</b></dt>
+	<dd>Examination of two or three selected policy problems from areas of taxation, income security, and public expenditures. Topics to be selected each year from areas of current or recent policy debate. Examples include public pension policy, privatization and public services, income tax or sales tax reform, federal-provincial cost sharing programs, tax incentives versus direct expenditures, welfare reform. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="351"></a>ECON 351 (3)  <b>Women in the Economy</b></dt>
+	<dd>Economic analysis of markets and policies particularly affecting women. Selected topics drawn from economic discrimination; educational, occupational, and work choices; pay and employment equity; allocation of work time and consumption within the household and in the market; economics of marriage and fertility; poverty; taxation; income security and pension policies; and historical perspectives. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="352"></a>ECON 352 (3)  <b>Public Sector Economics</b></dt>
+	<dd>Application of the tools of economic analysis to the study of important aspects of public policy in taxation, spending, borrowing, and regulation. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="355"></a>ECON 355 (3)  <b>Introduction to International Trade</b></dt>
+	<dd>The determinants of trade patterns, trade policy, tariff and non-tariff barriers to trade, political economy of protectionism, bilateral and multilateral trade disputes, trade liberalization, trade and development. Credit may be obtained for only one of ECON 355 and 455. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="356"></a>ECON 356 (3)  <b>Introduction to International Finance</b></dt>
+	<dd>Exchange rate policy regimes; international financial organizations; the interaction between monetary policy and exchange rate regimes; financial crises. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="360"></a>ECON 360 (3)  <b>Labour Economics</b></dt>
+	<dd>A study of the Canadian labour market. Labour supply, the allocation of the time among work and non-market activity, participation in the labour force, education and training. The demand for labour. The determination of wages and employment. The effect of unions on wages and employment. The wage structure, wage differentials by occupation, industry, race and sex. Unemployment. Credit may be obtained for only one of ECON 360 and 460. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="361"></a>ECON 361 (3)  <b>Economics of Industrial Relations</b></dt>
+	<dd>Economic aspects of industrial relations in Canada. Why workers join unions. The theory of trade union behaviour. The labour movement in Canada. Wage determination under collective bargaining. The causes of strikes and lockouts. Unions and the wage structure. Credit may be obtained for only one of ECON 361 and 461. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="364"></a>ECON 364 (3/6) d <b>The Economics of Sustainable Development: Communities, Markets and Technology</b></dt>
+	<dd>Applied research and seminars on topics of concern to economists and communities located both locally and internationally. Environmental sustainability, sustainable livelihoods, development effectiveness, institutions, agency, ethics, and well-being. Theoretical approaches, case studies, and community-based learning. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102. Restricted to BA students with at least 3rd year standing and BIE students with at least 2nd year standing. Students are expected to have completed at least 9 ECON credits prior to registration.<br> 
+	</dd>
+
+	<dt><a name="365"></a>ECON 365 (3)  <b>Topics in Canadian Industrial Organization and Regulation Policy</b></dt>
+	<dd>Current topics in industrial organization and regulation with emphasis on Canadian federal and provincial policy. The content will differ from year to year. Possible subjects include the regulation of transportation and communications, environmental regulation, marketing boards and other forms of agricultural regulation, competition and anti-combines policy, industrial organization and trade policy, and issues in consumer protection. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="367"></a>ECON 367 (3)  <b>Economic Analysis of Law</b></dt>
+	<dd>The economics of market failure, equity and efficiency. Property rights, the economics of accident and contract law, economic theories of law enforcement. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="370"></a>ECON 370 (3)  <b>Benefit-Cost Analysis and the Economics of Project Evaluation</b></dt>
+	<dd>Techniques and problems in benefit-cost analysis of public projects. Examination of alternative approaches to public decision-making such as cost-effectiveness analysis and multiple-objective frameworks. Case studies of projects in the areas of natural resources, the environment, human resources, public services, and transportation. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="371"></a>ECON 371 (3)  <b>Economics of the Environment</b></dt>
+	<dd>Economic analysis applied to various environmental issues, including sustainable development, quality of life, and environmental impacts of specific industrial and consumption activities. The design and implementation of government policies. Global environmental effects of human economic activity. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="374"></a>ECON 374 (3)  <b>Land Economics</b></dt>
+	<dd>Economic analysis applied to problems of land use. Rent theory. Land valuation. Land conservation. Techniques for assessing economic efficiency of land use. Effects of institutions and public policies on land use. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> <em>Equivalency:</em> FRE 374.
+	</dd>
+
+	<dt><a name="384"></a>ECON 384 (3)  <b>Economic Analysis of Health Services</b></dt>
+	<dd>Microeconomic theory of resource allocation with emphasis on the applications of optimizing models of health service markets. Analysis of Canadian problems in health service supply. Models of the consumer/patient, the physician/entrepreneur, the not-for-profit hospital/firm, and the third-party regulatory and payment agency. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="387"></a>ECON 387 (3)  <b>Economic Reform and Transition</b></dt>
+	<dd>Problems and processes of economic reform and of transition between different types of economic system, with emphasis on reform and transition in Communist and post-Communist economies. Credit will be granted for only one of ECON 387 or ECON 487. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="390"></a>ECON 390 (3)  <b>Introduction to Economic Research</b></dt>
+	<dd>Selected topics in economic research.  Application of research methods to economic data.  Credit will be granted for only one of ECON 390, ECON 490, ECON 495, or ECON 499. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184. MATH 104, 110 or 184 recommended.<br> 
+	</dd>
+
+	<dt><a name="398"></a>ECON 398 (3)  <b>Introduction to Applied Economics</b></dt>
+	<dd>Theory and practice of the analytical application of economics. Causality, empirical analysis, and the application of theoretical models through engagement in applied work. <br > <em>Prerequisite:</em> Either (a) one of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of STAT 200, STAT 241, STAT 251, COMM 291, FRST 231;  or (b) one of ECON 226, ECON 325, ECON 326, ECON 327. Not recommended for students who have completed any of ECON 390, ECON 490, ECON 494, ECON 499.<br> 
+	</dd>
+
+	<dt><a name="406"></a>ECON 406 (3)  <b>Topics in Microeconomics</b></dt>
+	<dd>Selected topics in advanced microeconomic analysis. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315 and one of ECON 303, ECON 306, ECON 316.<br> 
+	</dd>
+
+	<dt><a name="407"></a>ECON 407 (3)  <b>Topics in Macroeconomics</b></dt>
+	<dd>Selected topics in advanced macroeconomic analysis. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306.<br> 
+	</dd>
+
+	<dt><a name="417"></a>ECON 417 (3)  <b>Welfare Economics</b></dt>
+	<dd>The criteria for evaluating economic performance with special reference to the problems of justice in the distribution of income and economic efficiency. Topics include social evaluation functions, pareto-optimality, compensation criteria, and consistency of collective decision making. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="420"></a>ECON 420 (3)  <b>Optimization and Economic Theory</b></dt>
+	<dd>An introduction to static and dynamic optimization methods with economic applications. <br > <em>Prerequisite:</em> MATH 200 and one of ECON 301, ECON 304, ECON 315 and one of ECON 303, ECON 306, ECON 316. Permission of the instructor is also acceptable.<br> 
+	</dd>
+
+	<dt><a name="421"></a>ECON 421 (3)  <b>Introduction to Game Theory and Applications</b></dt>
+	<dd>Principles of rational behaviour in strategic situations and various notions of equilibrium useful in predicting outcomes. Applications from economics, business, politics, law and biology. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="422"></a>ECON 422 (3)  <b>Mathematics for Economists</b></dt>
+	<dd>Provides the required preparation in mathematics for the study of graduate economic theory. Solving systems of simultaneous equations; unconstrained and constrained maxima; elementary theory of difference and differential equations. Restricted to students taking graduate economic theory courses. <br > 
+	</dd>
+
+	<dt><a name="425"></a>ECON 425 (3)  <b>Introduction to Econometrics</b></dt>
+	<dd>Theoretical and applied issues in statistics and econometrics. Statistical distributions, sampling theory, maximum likelihood methods of estimation and hypothesis testing, generalized least squares, measurement errors, non-normal errors, systems of equations, discrete-choice models, outliers, regression diagnostics, and model selection. <br > <em>Prerequisite:</em> One of ECON 325, ECON 327 and one of ECON 326, ECON 328.<br> 
+	</dd>
+
+	<dt><a name="426"></a>ECON 426 (3)  <b>Econometric Analysis</b></dt>
+	<dd>Further topics in econometrics including such areas as nonlinear estimation, distributed lag models, time-series analysis, time-varying parameters, multivariate analysis, simulation and forecasting models, Monte Carlo experiments, duration models, large econometric models, Bayesian statistics, asymptotic theory, and ergodic theory. <br > <em>Prerequisite:</em> ECON 425.<br> 
+	</dd>
+
+	<dt><a name="436"></a>ECON 436 (3)  <b>Historical Background to Contemporary Issues in Canadian Economy</b></dt>
+	<dd>Demographic change, immigration, unemployment and labour markets, the inter-provincial transfer of resources, industrial and trade policy. <br > <em>Prerequisite:</em> One of ECON 304, ECON 301, ECON 315 and one of ECON 302, ECON 305, ECON 309.<br> 
+	</dd>
+
+	<dt><a name="441"></a>ECON 441 (3)  <b>The Process of Economic Development</b></dt>
+	<dd>Industrialization of an agrarian economy; how the West grew rich; history of Japanese development; technical progress and growth; evolution of the patterns of income distribution; role of international trade in development; environment and development. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="442"></a>ECON 442 (3)  <b>Issues in Economic Development</b></dt>
+	<dd>Divergence in the world economy, poverty, consequences of initial inequality, institutions, the impact of history, recent developmental experience--some case studies, labour and credit markets, the trickle down process. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="444"></a>ECON 444 (3)  <b>The Contemporary Japanese Economy</b></dt>
+	<dd>An economic analysis of selected issues in contemporary Japan. The postwar growth record, economic management and planning, industrial policy, labour market and industrial relations, foreign trade and investment, rapid industrialization and its consequences, external economic relations. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="447"></a>ECON 447 (3)  <b>Monetary Theory</b></dt>
+	<dd>Theoretical analysis of economies that use money; the emergence of money; the roles of money in the economy; models of money demand; the optimal quantity of money seignorage and inflation; monetary policy and macroeconomic stability; monetary policy in an open economy. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315 and one of ECON 302, ECON 305, ECON 309.<br> 
+	</dd>
+
+	<dt><a name="450"></a>ECON 450 (3)  <b>Economics of Taxation</b></dt>
+	<dd>The economic analysis of taxation. Equity and efficiency; optimal taxation theory; partial and general equilibrium analysis of incidence; analysis of taxes such as the personal and corporate income taxes, sales and excise taxes, payroll taxes and property tax. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="451"></a>ECON 451 (3)  <b>Economics of Public Expenditures</b></dt>
+	<dd>The role of government in the economy; efficiency and economic justice. Theory of public goods; applications to topics such as education, medical care and social services. Pricing and investment rules for public enterprises. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="455"></a>ECON 455 (3)  <b>International Trade</b></dt>
+	<dd>International trade theory and policy in general equilibrium; relative costs, factor proportions, imperfect competition and the pattern of trade; efficiency and distribution. Credit granted for only one of ECON355 and ECON455. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="456"></a>ECON 456 (3)  <b>International Macroeconomics and Finance</b></dt>
+	<dd>Balance of payments; market for foreign exchange; mechanism for adjusting the balance of payments; internal vs. external stability; current problems and issues. Credit will be granted for only one of ECON 456, COEC 377, or COMM 377. <br > <em>Prerequisite:</em> One of ECON 302, ECON 305, ECON 309.<br> 
+	</dd>
+
+	<dt><a name="457"></a>ECON 457 (3)  <b>Seminar in International Economic Relations</b></dt>
+	<dd>Selected topics focusing upon various issues arising in international economic relations. Open only to fourth-year students in the Major program in International Relations. <br > <em>Prerequisite:</em> All of ECON 101, ECON 102.<br> 
+	</dd>
+
+	<dt><a name="460"></a>ECON 460 (3)  <b>Economics of Labour Markets</b></dt>
+	<dd>The theory of labour supply and demand for individuals, households, and firms. Policy implications for Canadian taxation and benefit programs. Employee selection, hiring and promotion. Credit may not be obtained for both ECON 360 and 460. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315 and one of ECON 302, ECON 305, ECON 309.<br> 
+	</dd>
+
+	<dt><a name="461"></a>ECON 461 (3)  <b>Economics of Trade Unions</b></dt>
+	<dd>The microeconomic and macroeconomic effects of unions on wages, prices and employment. Industrial disputes and their resolution. Credit may not be obtained for both ECON 361 and 461. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315 and one of ECON 302, ECON 305, ECON 309.<br> 
+	</dd>
+
+	<dt><a name="465"></a>ECON 465 (3)  <b>Market Structure</b></dt>
+	<dd>Market structure and social welfare, theory of price discrimination, equilibrium in oligopolistic markets, entry and exit decisions, product differentiation and spatial models, theories of hierarchical organization, agency problem in the modern corporation, vertical integration and control, market structure and technical progress. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304.<br> 
+	</dd>
+
+	<dt><a name="466"></a>ECON 466 (3)  <b>The Economics of Government Regulation of Business</b></dt>
+	<dd>Normative and positive theories of government regulation of business. Topics include natural monopoly, socially optimal monopoly pricing, regulation of multi-firm industries, competition policy. Selected empirical studies. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="468"></a>ECON 468 (3/6) d <b>Economics of Intellectual Property: Patents, Drugs, and Rock 'n Roll</b></dt>
+	<dd>Economic research into patents and copyrights, and policies regulating them. Analysis of the impact of stronger intellectual property rights on innovative activity, with applications to culture, the music industry, pharmaceuticals, consumer electronics, and the Internet. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="471"></a>ECON 471 (3)  <b>Economics of Nonrenewable Resources</b></dt>
+	<dd>Application of economic analysis to the management of nonrenewable natural resources. Emphasis is placed on the economics of alternative energy sources. Other topics include mineral economics, criteria for the optimal use of resources, and measurement of resources. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="472"></a>ECON 472 (3)  <b>Economics of Renewable Resources</b></dt>
+	<dd>Application of economic analysis to the management of renewable resources. Special attention is given to criteria for the optimal use of depleting resources such as forests and water. Other topics include public policy with regard to environmental quality, conservation, and outdoor recreation. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="480"></a>ECON 480 (3)  <b>Transportation</b></dt>
+	<dd>Economic characteristics of the provision of transportation services, both passenger and freight; the market structure of the industry and the economic impact of the varying degrees of public regulation and promotion within the industry; the role of economic analysis in resolving problems of Canadian policy. <br > <em>Prerequisite:</em> One of COMM 295, ECON 301, ECON 304, ECON 315.<br> <em>Equivalency:</em> COMM 446.
+	</dd>
+
+	<dt><a name="482"></a>ECON 482 (3)  <b>The Economic Consequences of Religion</b></dt>
+	<dd>Analysis of the economic aspects of religious behaviour, the structure of religious organizations, the effects of competition in the religious marketplace, the economic benefits of religion, and some of the ill-effects of religion (such as religious strife and terrorism). <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="485"></a>ECON 485 (3)  <b>Political Economy</b></dt>
+	<dd>State and politics in economics. How states emerge, how dictators stay in power. Why groups engage in costly conflict, how countries turn into democracies and what its benefits are. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315 and one of ECON 302, ECON 305, ECON 309 and one of ECON 325, ECON 327 and one of ECON 326, ECON 328.<br> 
+	</dd>
+
+	<dt><a name="487"></a>ECON 487 (3)  <b>Comparative Economic Systems</b></dt>
+	<dd>Economic analysis of non-market/non-price systems of resource allocation. Economic analysis of central planning, co-ordination problems in hierarchical organizations, and the role of quantity restrictions, quotas, standards, etc. in regulating economic behaviour. The Soviet system of economic planning is used throughout as an example of the issues discussed. Credit may be obtained for only one of ECON 387 or ECON 487. <br > <em>Prerequisite:</em> One of ECON 301, ECON 304, ECON 315.<br> 
+	</dd>
+
+	<dt><a name="490"></a>ECON 490 (3)  <b>Seminar in Applied Economics</b></dt>
+	<dd>Selected problems and issues in the theory and practice of Economics. Each section will focus on a different field. Restricted to Economics Majors, and Combined Majors in Economics their final academic session. <br > <em>Prerequisite:</em> All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. For additional possible prerequisites see individual course descriptions on the School's  website.<br> 
+	</dd>
+
+	<dt><a name="492"></a>ECON 492 (3/6) c <b>Directed Reading</b></dt>
+	<dd> 
+	</dd>
+
+	<dt><a name="493"></a>ECON 493 (3)  <b>Advanced Empirical Methods for International Economics</b></dt>
+	<dd>Econometric methodologies necessary to conduct applied research, including time series analysis and panel data methods; review of empirical work in international economics.  Registration restricted to students in the Bachelor of International Economics Program. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> ECON 328.<br> 
+	</dd>
+
+	<dt><a name="494"></a>ECON 494 (3)  <b>Seminar in Applied International Economics</b></dt>
+	<dd>Focus on a particular aspect of applied international economics. Independent empirical research project required.  Registration restricted to students in the Bachelor of International Economics Program. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > <em>Prerequisite:</em> ECON 493.<br> 
+	</dd>
+
+	<dt><a name="495"></a>ECON 495 (3)  <b>Honours Seminar</b></dt>
+	<dd>Reports and group discussions of selected topics for fourth-year Honours students. <br > 
+	</dd>
+
+	<dt><a name="499"></a>ECON 499 (6)  <b>Honours Essay</b></dt>
+	<dd>Essay on some theoretical, applied, or institutional problem. Open only to fourth-year Honours students. <br > 
+	</dd>
+</dl> 
+
+
+Source acknowlegement : www.calendar.ubc.ca/vancouver/courses.cfm?page=code&code=ECON
