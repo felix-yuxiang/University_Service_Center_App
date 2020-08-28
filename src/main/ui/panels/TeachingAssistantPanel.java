@@ -44,6 +44,7 @@ public class TeachingAssistantPanel extends AppPanel implements ListSelectionLis
     private Student currStudent;
     private ListSelectionListener selectCourse;
     private ListSelectionListener selectAssignment;
+    private DefaultListModel<String> studentIdList;
 
     private GridBagConstraints gbc = new GridBagConstraints();
 
@@ -62,22 +63,12 @@ public class TeachingAssistantPanel extends AppPanel implements ListSelectionLis
     // MODIFIES: this
     // EFFECTS: initializes student list, course list, and the assignment list.
     private void initializeLists() {
-        boolean flag = true;
 
-        DefaultListModel<String> fl = new DefaultListModel<>();
+
+        studentIdList = new DefaultListModel<>();
         studentList = new JList<>();
-        studentList.setModel(fl);
-
-        for (User user: users) {
-            if (user.getID().length() != 3) {
-                fl.addElement(user.getID());
-                flag = false;
-            }
-        }
-        if (flag) {
-            textArea.setText("No students have registered on this application!\n "
-                    + "You will be notified for further instructions from instructor.");
-        }
+        studentList.setModel(studentIdList);
+        updateUser();
 
         studentList.addListSelectionListener(this);
         courseList = new JList<>();
@@ -86,14 +77,36 @@ public class TeachingAssistantPanel extends AppPanel implements ListSelectionLis
         assignmentList.addListSelectionListener(selectAssignment);
     }
 
+    //MODIFIES: this
+    //EFFECTS: update the users' data in the system
+    private void updateUser() {
+        boolean flag = true;
+
+        for (User user: users) {
+            if (user.getID().length() != 3) {
+                if (!studentIdList.contains(user.getID())) {
+                    studentIdList.addElement(user.getID());
+                }
+                flag = false;
+            }
+        }
+        if (flag) {
+            textArea.setText("No students have registered on this application! "
+                    + "\nYou will be notified of further instructions from instructor.");
+        }
+    }
+
     // MODIFIES: this
     // EFFECTS: update the course list pane based on current faculty selection
     private void updateCoursePane() {
         DefaultListModel<Course> cl = new DefaultListModel<>();
 
-        for (Course course: currStudent.getSchedule().getCourses()) {
-            cl.addElement(course);
+        if (currStudent.getSchedule().getCourses() != null) {
+            for (Course course: currStudent.getSchedule().getCourses()) {
+                cl.addElement(course);
+            }
         }
+
 
         try {
             courseList.setModel(cl);
@@ -387,11 +400,11 @@ public class TeachingAssistantPanel extends AppPanel implements ListSelectionLis
     @Override
     public void updatePanel() {
         textArea.setText("");
-
+        updateUser();
     }
 
     //MODIFIES: this
-    //EFFECTS: when you select a faculty, you can retrieve a list of courses of that faculty.
+    //EFFECTS: when you select a student, you can retrieve a list of courses of that student has registered.
     //          when you select another one, the list get updated!
     @Override
     public void valueChanged(ListSelectionEvent e) {
