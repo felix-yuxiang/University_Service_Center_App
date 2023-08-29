@@ -10,38 +10,37 @@
 ## An application that helps students to select courses and TAs to grade students.
 
 University Service Center always strives to provide a welcoming, professional, and safe environment for 
-all the students, parents, alumni, and faculty members. When I first became a freshman in *UBC*, I felt overwhelmingly 
-stressful to look into and absorb all the information on the website in case I miss something important. However, *UBC* 
-manages to render the whole process simple and straightforward by utilizing the descriptive and comprehensible entries
-as well as informative structures on the website. From my perspective as a current enrolled student, I just enjoy the 
-experience using the websites. Thus, software engineers did an outstanding job on this, and it obviously deserves me
-to learn from them.  
+all students, parents, alumni, and faculty members. When I first became a freshman at *UBC*, I felt overwhelmingly 
+stressed to look into and absorb all the information on the website in case I missed something important. However, *UBC* 
+manages to render the whole process simple and straightforward by utilizing descriptive and comprehensible entries
+as well as informative structures on the website. From my perspective as a currently enrolled student, I just enjoy the 
+experience of using the websites. Thus, software engineers did an outstanding job on this, and they possess something that I should learn from.  
 
 - *Why this project is of interest to you?*
 
 As for my personal project, it strikes me that it would be fun to figure out the mechanism behind the university 
 service center, and the best way to understand something is to implement it. A wide range of people such as students and 
 TAs can benefit from using my application. They would save a large amount of energy and time if this application is 
-handy. Therefore, it is intriguing to build this project and share it on Github.
+handy. Therefore, it is intriguing to build this project and share it on GitHub.
 - *What will the application do?*
 
 This application **aims** to mimic only a small portion of the behaviors which *UBC Student Service Center* exhibits 
-such as registering courses. In addition, the 
+such as registering for courses. In addition, the 
 project is expected to modify and improve some functions provided by *UBC Student Service Center*. As a *UBC*
-student, you may experience the situation that you want to register a course, but you have not met the prerequisites. 
+student, you may experience the situation that you want to register for a course, but you have not met the prerequisites. 
 That can be frustrating sometimes. In this application, a 
-student who pursues a specific specialization can design his/her course pathways based on current registered courses 
+student who pursues a specific specialization can design his/her course pathways based on currently registered courses 
 instead of checking back and forth for prerequisites of each course.
 Also, you are able to save these pathways (course selections) according to your career plans. Some gadgets could 
 be further implemented to improve the user experience. If you are identified as a teaching assistant rather than a 
 student, 
-you can grade students by a simple grade calculator. It is available to create a grading scheme for each of the
-student in the same class. These functions will make grading effective and efficient since TAs only need to type in the
-grades for each assignment and exam. 
+you can grade students by a simple grade calculator. It is possible to create a grading scheme for each of the
+students in the same class. These functions will make grading effective and efficient since TAs only need to type in the
+grades for each assignment and exam. All the courses can be easily scaped from the UBC archive by an HTML parser object.
 - *Who will use it?*
 
 This application targets current *UBC* students and TAs. It can be customized to refine students' experience when 
-selecting optimal courses and TAs' counterpart when grading assignments.
+selecting optimal courses and TAs' counterparts when grading assignments.
 
 Hopefully, this application will hone my software constructing skills (Java programming).
 
@@ -51,13 +50,13 @@ In the context of this application:
 > - As a user (student), I want to be able to add multiple courses to a schedule. 
 > - As a user (student), I want to be able to view all the prerequisites of the current course selection.
 > - As a user (student), I want to be able to delete a course from a schedule. 
-> - As a user (student), I want to be able to view the detail of the course and schedule.
-> - As a user (student), I want to be able to view grades of the assignments.
+> - As a user (student), I want to be able to view the details of the course and schedule.
+> - As a user (student), I want to be able to view the grades of the assignments.
 > - As a user (TA), I want to be able to see an array of students' ID in the given class to protect privacy.
-> - As a user (TA), I want to add multiple assignments to student and grade them.
+> - As a user (TA), I want to add multiple assignments to students and grade them.
 > - As a user (TA), I want to remove multiple assignments from a student. 
-> - As a user (TA), I want to see the course that students have registered.
-> - As a user (TA/Student), I want to sign up and login with my name and number. 
+> - As a user (TA), I want to see the courses that students have registered for.
+> - As a user (TA/Student), I want to sign up and log in with my name and number. 
 
 ### Phase 2 - User Stories
 
@@ -69,7 +68,7 @@ In the context of this application:
 
 ### Instructions for Grader
 
-- You can browse all the courses in the database. If you click a course name, you can see the course detail accordingly.
+- You can browse all the courses in the database. If you click a course name, you can see the course details accordingly.
 - You can generate the first required event by clicking the course name.
 - You can generate the second required event by clicking add to my schedule button.
 - You can view your schedule by clicking the `view schedule` button.
@@ -82,8 +81,8 @@ In the context of this application:
 
 ### Phase 4: Task 2
 
-- In my `Assignment` class, method `createAssignment` throws checked out weight bound exception and negative value exception.
-Another method `gradeAssignment` throws checked out grade bound exception and negative value exception. They have been thoroughly tested and can be considered as robust design. 
+- In my `Assignment` class, the method `createAssignment` throws checked out a weight bound exception and a negative value exception.
+Another method `gradeAssignment` throws checked out grade a bound exception and a negative value exception. They have been thoroughly tested and can be considered as robust design. 
 - My `User` interface has been implemented by classes `Student` and `TeachingAssistant`. The getters and setters have been overridden. (Type hierarchy)
 - Class `CourseReader` reads a html file and constructs a list of courses. In light of the introduction of a map, I utilize the Map interface (a hashmap) to store all the courses.
 Also in my `StudentPanel`, map has been used intensively because I need to search a course by its ID. The courses I get from Class `CourseReader` is a Hashmap<String, Course>. In addition,
